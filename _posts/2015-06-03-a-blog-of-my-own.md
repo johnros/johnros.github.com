@@ -7,7 +7,7 @@ tags:  [general, r, statistics]
 ---
 
 After thinking about it a long time, I finally decided to create a blog of my own.
-Learning of `Jekyll` with `MathJax` made the difference, as I can now easily post with all the mathematical detail I want. 
+Learning of [Jekyll](http://jekyllrb.com/) with [kramdown](http://kramdown.gettalong.org/) markdown for interpreting  [MathJax](https://www.mathjax.org/) made the difference, as I can now easily post with all the mathematical detail I want. 
 [Barry Clark's](http://www.smashingmagazine.com/2014/08/01/build-blog-jekyll-github-pages/) guide really helped me getting started.
 I can event edit `RMarkdown` in `RStudio`, outputting text and images, and automatically publish on [Github](https://github.com/). 
 I did not try this exciting pipeline yet, but it is documented by  [Andy South](http://andysouth.github.io/blog-setup/).
