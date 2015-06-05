@@ -5,7 +5,6 @@ description: ""
 category: 
 tags: [general]
 ---
-{% include JB/setup %}
 
 After thinking about it a long time, I finally decided to create a blog of my own.
 Learning of `Jekyll` with `MathJax` made the difference, as I can now easily post with all the mathematical detail I want. See [here](http://christopherpoole.github.io/using-mathjax-on-github-pages/) for more details.

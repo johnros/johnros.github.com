@@ -2,15 +2,17 @@
 layout: default
 ---
 
-{% for post in site.posts limit: 10 %}
-<div class="row-fluid">
-  <div class="span12">
-    <h2>{{ post.title }}</h2>
-    <h4>{{ post.date | date_to_long_string }}</h4>
-    <p>
-      <a href="{{ post.url }}">Read Post</a>
-    </p>
-  </div>
-</div>
+<div class="posts">
+  {% for post in site.posts %}
+    <article class="post">
 
-{% endfor %}
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+
+      <div class="entry">
+        {{ post.excerpt }}
+      </div>
+
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+    </article>
+  {% endfor %}
+</div>
