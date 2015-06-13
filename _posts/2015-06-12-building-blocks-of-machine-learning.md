@@ -5,6 +5,21 @@ description: ""
 category: 
 tags:  [machine-learning]
 ---
+
+[Under construction. Fighting markup...]
+
+
+One can easily be confused by the sea of methods and terms in macine learning.
+I find the endless terminology confusing and counter productive. One might have a perfect understanding of a method "A", but is unaware that the new state of the art algorithm, "B++", is merely a small twist to his familiar "A". I have spent hours trying to disambiguate terms just to realize that a simple idea was ocluded by terminology.
+
+In this post, I try to collect the fundemantal ideas underlying machine-learning. Most algorithms out there can be shown to be some compounding of these ideas:
+
+1. Risk Minimization.
+1. Inductive Bias and Regularization.
+1. Dimensionality Reduction.
+1. The Kernel Trick.
+1. The Spectral Trick.
+
 \newcommand{\loss}{l} % A loss function
 \newcommand{\risk}{R} % The risk function
 \newcommand{\riskn}{\mathbb{R}} % The empirical risk
@@ -19,17 +34,6 @@ tags:  [machine-learning]
 \newcommand{\Y}{\rv Z} % The random variable y
 \newcommand{\estim}[1]{\widehat{#1}} % An estimator
 
-
-One can easily be confused by the sea of methods and terms in macine learning.
-I find the endless terminology confusing and counter productive. One might have a perfect understanding of a method "A", but is unaware that the new state of the art algorithm, "B++", is merely a small twist to his familiar "A". I have spent hours trying to disambiguate terms just to realize that a simple idea was ocluded by terminology.
-
-In this post, I try to collect the fundemantal ideas underlying machine-learning. Most algorithms out there can be shown to be some compounding of these ideas:
-
-1. Risk Minimization.
-1. Inductive Bias and Regularization.
-1. Dimensionality Reduction.
-1. The Kernel Trick.
-1. The Spectral Trick.
 
 ## Risk Minimization
 
