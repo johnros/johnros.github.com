@@ -15,5 +15,5 @@ See my [web page](http://www.john-ros.com) for more about my research.
 
 ## Contact
 
-To contact me, just follow the link at the bottom of the page.
+To contact me, just follow the links at the bottom of the page.
 
