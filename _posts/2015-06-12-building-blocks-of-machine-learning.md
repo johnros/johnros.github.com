@@ -6,6 +6,8 @@ category:
 tags:  [machine-learning]
 ---
 
+[draft. still struggeling with mathjax]
+
 One can easily be confused by the sea of methods and terms in macine learning.
 I find the endless terminology confusing and counter productive. One might have a perfect understanding of a method "A", but is unaware that the new state of the art algorithm, "B++", is merely a small twist to his familiar "A". I have spent hours trying to disambiguate terms just to realize that a simple idea was ocluded by terminology.
 
