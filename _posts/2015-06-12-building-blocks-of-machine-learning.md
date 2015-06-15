@@ -106,3 +106,12 @@ The reason that RKHS spaces appear in this context is that functions in RKHS can
 
 ## Generative Models
 
+AS data scientist trained as a statisticial will first think of a sampling distribution, a.k.a., a _generative model_. This may be an overkill for the simple purpose of descriminative analysis, dimensionality reduction and clustering. If, however, a generative model can be assumed, then it immediatly lends itself to learning using likelihood principals. 
+
+Assuming the generative model has a latent variable, allows the design of algorithms that pool information from different samples in a manner that no algorithm designer could have though of. Examples include:
+
+- [Finite Mixtures](https://en.wikipedia.org/wiki/Mixture_model), [Hiddem Markov Models](https://en.wikipedia.org/wiki/Hidden_Markov_model) and used for classification and clustering.
+- , used for classification and clustering.
+- [Factor Analysis](https://en.wikipedia.org/wiki/Factor_analysis), [Independent Component Analysis](https://en.wikipedia.org/wiki/Independent_component_analysis), used for dimensionality reduction.
+- [Latent Dirichlet Allocation](https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation) used for topic modeling. 
+
