@@ -113,5 +113,5 @@ Assuming the generative model has a latent variable, allows the design of algori
 - [Finite Mixtures](https://en.wikipedia.org/wiki/Mixture_model), [Hiddem Markov Models](https://en.wikipedia.org/wiki/Hidden_Markov_model) and used for classification and clustering.
 - , used for classification and clustering.
 - [Factor Analysis](https://en.wikipedia.org/wiki/Factor_analysis), [Independent Component Analysis](https://en.wikipedia.org/wiki/Independent_component_analysis), used for dimensionality reduction.
-- [Latent Dirichlet Allocation](https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation) used for topic modeling. 
+- [Latent Dirichlet Allocation](https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation), and [Probabilistic Latent Semantic Indexing](https://en.wikipedia.org/wiki/Probabilistic_latent_semantic_analysis) used for topic modeling. 
 
