@@ -11,8 +11,6 @@ I find the endless terminology confusing and counter productive. One might have 
 
 In this post, I try to collect the fundemantal ideas underlying machine-learning. Most algorithms out there can be shown to be some compounding of these ideas:
 
-## Risk Minimization
-
 $$
 \newcommand{\loss}{l} % A loss function
 \newcommand{\risk}{R} % The risk function
@@ -29,6 +27,8 @@ $$
 \newcommand{\estim}[1]{\widehat{#1}} % An estimator
 $$
 
+
+## Risk Minimization
 
 This is possibly the most fundamental concept in machine learning. 
 The idea stems from (statistical) desicision theory, and consists of defining what is the __loss__ incurred by making an error, $$\loss(Z;\theta)$$. 
@@ -106,12 +106,11 @@ The reason that RKHS spaces appear in this context is that functions in RKHS can
 
 ## Generative Models
 
-AS data scientist trained as a statisticial will first think of a sampling distribution, a.k.a., a _generative model_. This may be an overkill for the simple purpose of descriminative analysis, dimensionality reduction and clustering. If, however, a generative model can be assumed, then it immediatly lends itself to learning using likelihood principals. 
+A data scientist trained as a statisticial will first think of a sampling distributions, a.k.a., a _generative model_. This may be an overkill for the simple purpose of descriminative analysis, dimensionality reduction and clustering. If, however, a generative model can be assumed, then it immediatly lends itself to learning using likelihood principals. 
 
 Assuming the generative model has a latent variable, allows the design of algorithms that pool information from different samples in a manner that no algorithm designer could have though of. Examples include:
 
-- [Finite Mixtures](https://en.wikipedia.org/wiki/Mixture_model), [Hiddem Markov Models](https://en.wikipedia.org/wiki/Hidden_Markov_model) and used for classification and clustering.
-- , used for classification and clustering.
-- [Factor Analysis](https://en.wikipedia.org/wiki/Factor_analysis), [Independent Component Analysis](https://en.wikipedia.org/wiki/Independent_component_analysis), used for dimensionality reduction.
+- [Finite Mixtures](https://en.wikipedia.org/wiki/Mixture_model), [Hiddem Markov Models](https://en.wikipedia.org/wiki/Hidden_Markov_model),  [Hierarchical Dirichlet Processes](https://en.wikipedia.org/wiki/Hierarchical_Dirichlet_process), [Stochastic blockmodels](https://en.wikipedia.org/wiki/Community_structure) used for classification and clustering.
+- [Factor Analysis](https://en.wikipedia.org/wiki/Factor_analysis), [Independent Component Analysis](https://en.wikipedia.org/wiki/Independent_component_analysis), [Canonical Correlations Analysis](https://en.wikipedia.org/wiki/Canonical_correlation), used for dimensionality reduction.
 - [Latent Dirichlet Allocation](https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation), and [Probabilistic Latent Semantic Indexing](https://en.wikipedia.org/wiki/Probabilistic_latent_semantic_analysis) used for topic modeling. 
 
