@@ -6,8 +6,6 @@ category:
 tags:  [machine-learning]
 ---
 
-
-
 One can easily be confused by the sea of methods and terms in macine learning.
 I find the endless terminology confusing and counter productive. One might have a perfect understanding of a method "A", but is unaware that the new state of the art algorithm, "B++", is merely a small twist to his familiar "A". I have spent hours trying to disambiguate terms just to realize that a simple idea was ocluded by terminology.
 
@@ -31,11 +29,12 @@ $$
 \newcommand{\estim}[1]{\widehat{#1}} % An estimator
 $$
 
-This is possibly the most fundamental concept in machine learning. 
-The idea stems from (statistical) desicision theory, and consists of defining what is the __loss__ incurred by making an error, $\loss(Z;\theta)$. 
-Once defined, one would naturally seek to make predictions, $\theta^*$, that are accurate, i.e., minimize the average loss known as the __risk__: $\risk(\theta):= \int \loss(Z;\theta) dZ$, and $\theta^*:=\argmin{\theta}{\risk(\theta)}$.
 
-As the whole population is typically inaccesible, we cannot compute the risk. Instead, we have access to a sample, and so we instead minimize the __empirical risk__ $\riskn(\theta):= \frac  1n \sum \loss(Z_i;\theta)$, and $\estim{\theta^*}:= \argmin{\theta}{\riskn(\theta)}$.
+This is possibly the most fundamental concept in machine learning. 
+The idea stems from (statistical) desicision theory, and consists of defining what is the __loss__ incurred by making an error, $$\loss(Z;\theta)$$. 
+Once defined, one would naturally seek to make predictions, $$\theta^*$$, that are accurate, i.e., minimize the average loss known as the __risk__: $$\risk(\theta):= \int \loss(Z;\theta) dZ$$, and $$\theta^*:=\argmin{\theta}{\risk(\theta)}$$.
+
+As the whole population is typically inaccesible, we cannot compute the risk. Instead, we have access to a sample, and so we instead minimize the __empirical risk__ $$\riskn(\theta):= \frac  1n \sum \loss(Z_i;\theta)$$, and $$\estim{\theta^*}:= \argmin{\theta}{\riskn(\theta)}$$.
 
 The vast majority of supervised and unsupervised learning algorithms are merely empirical risk minimizers (ERM).
 Some examples include [Ordinary Least Squares](https://en.wikipedia.org/wiki/Ordinary_least_squares), [Maximum Likelihood estimation](https://en.wikipedia.org/wiki/Maximum_likelihood), [PCA](https://en.wikipedia.org/wiki/Principal_component_analysis).
@@ -52,16 +51,16 @@ Inductive bias can be introduced in seveal ways:
 - By restricting the functional form of your predictors (the "hypothesis class").
 - By preferring simple solutions, i.e., adding regularization.
 
-__Ridge regression__ demonstrates these two forms of inductive bias: we constrain the predictor to be linear in the features, and also add $l_2$ regularization. 
+__Ridge regression__ demonstrates these two forms of inductive bias: we constrain the predictor to be linear in the features, and also add $$l_2$$ regularization. 
 
 
 ## Risk Estimation
 
 Having defind a __loss__ function, we obviously seek for predictors and estimates that minimize the risk.
-We may think that choosing the model with the smallest empirical risk, $\riskn{\theta)}$, may be a good way to compare and choose models. This, however, is a poor strategy that will certainly lead to __overfitting__. 
-This is because $\riskn(\estim{\theta^*})$ is a biased estimate of $\risk(\estim{\theta^*})$. The "richer" the hypothesis class, the larger the bias, leading us to prefer more complicated models. 
+We may think that choosing the model with the smallest empirical risk, $$\riskn{\theta)}$$, may be a good way to compare and choose models. This, however, is a poor strategy that will certainly lead to __overfitting__. 
+This is because $$\riskn(\estim{\theta^*})$$ is a biased estimate of $$\risk(\estim{\theta^*})$$. The "richer" the hypothesis class, the larger the bias, leading us to prefer more complicated models. 
 
-To choose the best model, we would like some unbiased esimate of $\risk(\estim{\theta^*})$. 
+To choose the best model, we would like some unbiased esimate of $$\risk(\estim{\theta^*})$$. 
 Notable methods that aim at estimating the risk of the selected model, a.k.a. the __generalization error__, or __test error__ are:
 
 - [Train, validate, test](https://en.wikipedia.org/wiki/Test_set) samples.
@@ -72,7 +71,7 @@ Notable methods that aim at estimating the risk of the selected model, a.k.a. th
 
 ## Dimensionality Reduction
 
-The fact that a scientists/machine collected a set of $p$ variables, does clearly not mean that we need them all, or that we need them in the original scale.
+The fact that a scientists/machine collected a set of $$p$$ variables, does clearly not mean that we need them all, or that we need them in the original scale.
 Indeed, variables may include redundant information. 
 It is thus of great interest, both for interpretability and for computational speedups, to remove the redundancy in the data by reducing its dimension. 
 
