@@ -6,10 +6,10 @@ category:
 tags:  [machine-learning]
 ---
 
-One can easily be confused by the sea of methods and terms in macine learning.
-I find the endless terminology confusing and counter productive. One might have a perfect understanding of a method "A", but is unaware that the new state of the art algorithm, "B++", is merely a small twist to his familiar "A". I have spent hours trying to disambiguate terms just to realize that a simple idea was ocluded by terminology.
+One can easily be confused by the sea of methods and terms in machine learning.
+I find the endless terminology confusing and counter productive. One might have a perfect understanding of a method "A", but is unaware that the new state of the art algorithm, "B++", is merely a small twist to his familiar "A". I have spent hours trying to disambiguate terms just to realize that a simple idea was occluded by terminology.
 
-In this post, I try to collect the fundemantal ideas underlying machine-learning. Most algorithms out there can be shown to be some compounding of these ideas:
+In this post, I try to collect the fundamental ideas underlying machine-learning. Most algorithms out there can be shown to be some compounding of these ideas:
 
 $$
 \newcommand{\loss}{l} % A loss function
@@ -31,10 +31,10 @@ $$
 ## Risk Minimization
 
 This is possibly the most fundamental concept in machine learning. 
-The idea stems from (statistical) desicision theory, and consists of defining what is the __loss__ incurred by making an error, $$\loss(Z;\theta)$$. 
+The idea stems from (statistical) decision theory, and consists of defining what is the __loss__ incurred by making an error, $$\loss(Z;\theta)$$. 
 Once defined, one would naturally seek to make predictions, $$\theta^*$$, that are accurate, i.e., minimize the average loss known as the __risk__: $$\risk(\theta):= \int \loss(Z;\theta) dZ$$, and $$\theta^*:=\argmin{\theta}{\risk(\theta)}$$.
 
-As the whole population is typically inaccesible, we cannot compute the risk. Instead, we have access to a sample, and so we instead minimize the __empirical risk__ $$\riskn(\theta):= \frac  1n \sum \loss(Z_i;\theta)$$, and $$\estim{\theta^*}:= \argmin{\theta}{\riskn(\theta)}$$.
+As the whole population is typically inaccessible, we cannot compute the risk. Instead, we have access to a sample, and so we instead minimize the __empirical risk__ $$\riskn(\theta):= \frac  1n \sum \loss(Z_i;\theta)$$, and $$\estim{\theta^*}:= \argmin{\theta}{\riskn(\theta)}$$.
 
 The vast majority of supervised and unsupervised learning algorithms are merely empirical risk minimizers (ERM).
 Some examples include [Ordinary Least Squares](https://en.wikipedia.org/wiki/Ordinary_least_squares), [Maximum Likelihood estimation](https://en.wikipedia.org/wiki/Maximum_likelihood), [PCA](https://en.wikipedia.org/wiki/Principal_component_analysis).
@@ -46,7 +46,7 @@ Typical examples of algorithms that cannot be cast as pure ERM problems are __no
 ## Inductive Bias
 Inductive bias is the idea that without constraining the class of prediction function ("hypothesis" in the learning literature), there is non point in learning. Indeed, our predictions and approximation will be overfitted to the sample, and perform poorly on new data.
 
-Inductive bias can be introduced in seveal ways:
+Inductive bias can be introduced in several ways:
 
 - By restricting the functional form of your predictors (the "hypothesis class").
 - By preferring simple solutions, i.e., adding regularization.
@@ -56,11 +56,11 @@ __Ridge regression__ demonstrates these two forms of inductive bias: we constrai
 
 ## Risk Estimation
 
-Having defind a __loss__ function, we obviously seek for predictors and estimates that minimize the risk.
+Having defined a __loss__ function, we obviously seek for predictors and estimates that minimize the risk.
 We may think that choosing the model with the smallest empirical risk, $$\riskn{\theta)}$$, may be a good way to compare and choose models. This, however, is a poor strategy that will certainly lead to __overfitting__. 
 This is because $$\riskn(\estim{\theta^*})$$ is a biased estimate of $$\risk(\estim{\theta^*})$$. The "richer" the hypothesis class, the larger the bias, leading us to prefer more complicated models. 
 
-To choose the best model, we would like some unbiased esimate of $$\risk(\estim{\theta^*})$$. 
+To choose the best model, we would like some unbiased estimate of $$\risk(\estim{\theta^*})$$. 
 Notable methods that aim at estimating the risk of the selected model, a.k.a. the __generalization error__, or __test error__ are:
 
 - [Train, validate, test](https://en.wikipedia.org/wiki/Test_set) samples.
@@ -95,7 +95,7 @@ Examples include:
 
 ## The Kernel Trick
 
-As previously stated, it is typically impossible so solve some risk miminization problem over an infinte dimensional function space.
+As previously stated, it is typically impossible so solve some risk minimization problem over an infinite dimensional function space.
 Exceptions arise, however, if using a particular type of [regularization](#inductive-bias).
 Indeed, it was [Grace Whaba's](http://www.stat.wisc.edu/~wahba/) observation, when studying smoothing splines, that with the right regularization, the solution to a risk minimization problem in an infinite dimensional function space, is contained within a finite dimensional simple space (that of [cubic splines](https://en.wikipedia.org/wiki/Spline_(mathematics))).
 This observation was later generalized to what is currently known as the Kernel Trick.
@@ -106,7 +106,7 @@ The reason that RKHS spaces appear in this context is that functions in RKHS can
 
 ## Generative Models
 
-A data scientist trained as a statisticial will first think of a sampling distributions, a.k.a., a _generative model_. This may be an overkill for the simple purpose of descriminative analysis, dimensionality reduction and clustering. If, however, a generative model can be assumed, then it immediatly lends itself to learning using likelihood principals. 
+A data scientist trained as a Statistician will first think of a sampling distributions, a.k.a., a _generative model_. This may be an overkill for the simple purpose of discriminative analysis, dimensionality reduction and clustering. If, however, a generative model can be assumed, then it immediately lends itself to learning using likelihood principals. 
 
 Assuming the generative model has a latent variable, allows the design of algorithms that pool information from different samples in a manner that no algorithm designer could have though of. Examples include:
 
