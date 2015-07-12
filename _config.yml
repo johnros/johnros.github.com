@@ -70,3 +70,4 @@ exclude:
     - README.md
     - CNAME
 
+categories: [static_page]

@@ -31,12 +31,19 @@
             <p class="site-description">{{ site.description }}</p>
           </div>
 
-          <nav>
-            <a href="{{ site.baseurl }}/">Blog</a>
-            <a href="{{ site.baseurl }}/about">About</a>
-          </nav>
         </header>
       </div>
+    </div>
+    
+    <div class='static-pages'>
+        <p><a class='static-link' href="{{ site.baseurl }}/">Blog</a></p>
+        {% for page in site.pages %}
+            {% if page.title %}
+                {% if page.categories contains 'static_page' %}
+                    <p><a class='static-link' href="{{page.url | prepend: site.baseurl}}"> {{ page.title }}</a></p>
+                {% endif %}
+            {% endif %}
+        {% endfor %}
     </div>
 
     <div id="main" role="main" class="container">

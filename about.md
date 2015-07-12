@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+categories: [static_page]
 ---
 
 A statistician/machine-learner/data-scientist/data-hacker.
