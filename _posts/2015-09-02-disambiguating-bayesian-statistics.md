@@ -9,7 +9,7 @@ tags:  [statistics, machine-learning]
 The term "Bayesian Statistics" is mentioned in any introductory course to statistics and appears in countless papers and in books, in many contexts and with many meanings.
 Since it carries different meaning to different authors, I will try to suggest several different interpretations I have encountered.
 
-First, I will classify several possible generative models according to the $4$ following qualities:
+First, I will classify several possible generative models according to the $$4$$ following qualities:
 
 1. Is there a probability on the parameter space (a "prior")?
 1. Is the prior subjective or objective?
