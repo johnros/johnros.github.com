@@ -9,27 +9,28 @@ tags:  [statistics, machine-learning]
 The term "Bayesian Statistics" is mentioned in any introductory course to statistics and appears in countless papers and in books, in many contexts and with many meanings.
 Since it carries different meaning to different authors, I will try to suggest several different interpretations I have encountered.
 
-First, I will classify several possible generative models according to the $$4$$ following qualities:
+First, I will classify several possible generative models according to the $$4$$ following attributes:
 
 1. Is there a probability on the parameter space (a "prior")?
-1. Is the prior subjective or objective?
+1. Is the prior subjective (epistemic, beliefs) or objective (physical)?
 1. Is the prior parametric or non-parametric?
 1. Is the prior simple or composite?
 
-We consider these qualities on the most common modelling approaches:
+We consider these attributes on some common modelling approaches:
 
-- Neymann-Pearson frequentist inference has no prior on the parameter space.
+- Neyman-Pearson frequentist inference has _no prior_ on the parameter space.
 Example: MLE for the mean of a normal population.
-- A pure/subjective/DeFinetti Bayesian has a simple, subjective prior. It may be parametric or not. 
+- A pure/subjective/DeFinetti Bayesian has a _simple, subjective_ prior. It may be parametric or not. 
 __Example__: [MAP](https://en.wikipedia.org/wiki/Maximum_a_posteriori_estimation) estimate of the mean of a normal population.
-- A Semi-Bayesian (a.k.a. pseudo-Bayesian, semi-Empirical-Bayesian) is essentially a frequentist with a composite, parametric, objective prior. 
+- A Semi-Bayesian (a.k.a. pseudo-Bayesian, semi-Empirical-Bayesian) is essentially a frequentist with a _composite, parametric, objective_ prior. 
 Sometimes referred to as Empirical-Bayesian [1] albeit not in it's original historical sense [2].
-__Example__: Type-II Maximum Likelihood or Restricted-Maximum-Likelihood estimation of the variance components in a mixed effects model.
-- Empirical Bayesian in it's original historical sense has an objective, non-parametric prior, specified up to it's two first moments [2]. 
-It differs from the (original) Pseudo-Bayesian, in that the prior is non-parametric.
+__Example__: Type-II Maximum Likelihood [2] or Restricted-Maximum-Likelihood estimation of the variance components in a mixed effects model.
+- Empirical Bayesian in it's original historical sense has an _objective, non-parametric prior_, specified up to it's two first moments [2]. 
+It differs from the (original) Semi-Bayesian, in that the prior is non-parametric.
 __Example__: Sample coverage estimation- "What is the probability that the next sample will be of an unseen species?" [3].
-- A parametric, composite, subjective prior is something interesting. 
-It is hard to interpret since it implies that "my beliefs are exact, but I don't know what they are". It is typically encountered as a mathematical regularization device.
+- A _parametric, composite, subjective_ prior is something interesting. 
+It is hard to interpret since it implies that "my beliefs are sharp, but I don't know what they are (yet?)". 
+It is typically encountered as a mathematical regularization device.
 __Example__: Ridge regression; the Gaussian prior on the coefficients can hardly be interpreted as a limiting frequency, thus it is subjective. The variance of the prior is unspecified, usually estimated using cross-validation, thus a composite prior.
 
 
