@@ -1,13 +1,10 @@
 ---
 layout: post
-title: "Disambiguating 'Bayesian Statistics'"
+title: "Disambiguating Bayesian Statistics"
 description: ""
 category: 
-tags:  [statistics; machine-learning]
-output:
-  html_document
+tags:  [statistics, machine-learning]
 ---
-
 
 The term "Bayesian Statistics" is mentioned in any introductory course to statistics and appears in countless papers and in books, in many contexts and with many meanings.
 Since it carries different meaning to different authors, I will try to suggest several different interpretations I have encountered.
