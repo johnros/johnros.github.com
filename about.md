@@ -34,16 +34,19 @@ Presently a faculty member at the [Dept. of Industrial Engineering and Managemen
 
 - __On Accuracy and Complexity:__
 A tradeoff exists between statistical accuracy and computational complexity. This observation is hardly new, and has motivated much work in statistics and machine learning. 
-I work on computable large scale machine learning algorithms, designed under realistic computer-architecture constraints. 
+I work on computable large scale machine learning algorithms, designed under realistic computer-architecture constraints.  
+
 - __On Brain Maps:__
 I am interested in the methdological problems of brain imaging:
 How to generalize findings from a group study to a "typical brain"? 
 How to analyze imaging genetic studies where the number of relations to study is in the Billions $$(10^9)$$? 
 How to account for the bias introduced by search-and-select methods such as region selection in social neuroscience ("Voodoo correlations"), and searchlight analysis in multivoxel pattern recognition?
+
 - __High Dimensional Statistical Process Control:__
 Modern day quality control does no longer consist of the variation of a single attribute over time. Production lines today have hundreds and thousands of sensors monitoring performance. 
 It so happens, that the problem of quality control has applications in any monitoring problem. 
 This include _cyber security_ alerting systems, _patient monitoring_, internet of things (_IOT_), etc.
+
 - __Statistical arguments and the philosophy of science:__
 What makes a statistical finding "convincing"? Are all arguments (Bayesian, Frequentist, Fiducial,...) adequate for all problems? 
 
