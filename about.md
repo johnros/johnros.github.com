@@ -5,11 +5,11 @@ permalink: /about/
 categories: [static_page]
 ---
 
-Lecturer (Assistant Professor) \
-[Dept. of Industrial Engineering and Management](http://in.bgu.ac.il/engn/iem/Pages/default.aspx), \
-Ben Gurion University of the Negev, Israel.\
-P.O. 653, Beer Sheva, 8410501 \
-Tel: +972-(0)8-647-2213\
+Lecturer (Assistant Professor) \\
+[Dept. of Industrial Engineering and Management](http://in.bgu.ac.il/engn/iem/Pages/default.aspx), \\
+Ben Gurion University of the Negev, Israel.\\
+P.O. 653, Beer Sheva, 8410501 \\
+Tel: +972-(0)8-647-2213\\
 Mail: johnros \<spammer decoy\> bgu ac il
 
 
