@@ -11,11 +11,13 @@ categories: [static_page]
 - All that is necessary for evil to triumph is for good men to do nothing-- War & Peace. Also attributed to Edmund Burke.
 - Nothing is stronger than an idea whose time has come-- Victor Hugo.
 - Study without desire spoils the memory, and it retains nothing that it takes in-- Leonardo da Vinci. 
+
 ## Work
 
 - If you want something done, ask a busy person to do it. The more things you do, the more you can do-- Ball, Lucille
 - Andere kochen auch nur mit Wasser ("Others also just cook with water") -- Old German saying.
 - If I had an hour to solve a problem I'd spend 55 minutes thinking about the problem and 5 minutes thinking about solutions-- Albert Einstein.
+
 
 ## Statistics
 
