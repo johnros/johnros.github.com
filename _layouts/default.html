@@ -36,7 +36,8 @@
     </div>
     
     <div class='static-pages'>
-        <p><a class='static-link' href="{{ site.baseurl }}/">Blog</a></p>
+        <p><a class='static-link' href="{{ site.baseurl }}/">Home</a></p>
+        <p><a class='static-link' href="{{ site.baseurl }}/blog/">Blog</a></p>
         {% for page in site.pages %}
             {% if page.title %}
                 {% if page.categories contains 'static_page' %}

@@ -1,8 +1,5 @@
 ---
-layout: page
-title: About
-permalink: /about/
-categories: [static_page]
+layout: default
 ---
 
 Lecturer (Assistant Professor) \\
