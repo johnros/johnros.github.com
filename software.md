@@ -38,6 +38,7 @@ Finds the prevalence of activation in fMRI group studies, presented in [our pape
 - Version control: [git](http://git-scm.com/) with [github](https://github.com/) for code, manuscripts, etc.
 - [Scribus](http://www.scribus.net/canvas/Scribus)- for scientific posters. 
 - [Zotero](http://www.zotero.org/)- for managing references (I like [Mendeley](http://www.mendeley.com/), but I am already addicted). 
+- [Calibre](http://calibre-ebook.com/) for managing my (e)book library.
 - [Reeder](http://reederapp.com/)- by far my favorite RSS reader (since GoogleReader closed).
 - [Pocket](http://getpocket.com/)- For all the "I want to read this later" sites.
 - [Jekyll](http://jekyllrb.com/) with GitHub: for blogging.
