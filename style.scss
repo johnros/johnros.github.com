@@ -18,14 +18,14 @@ html {
 }
 
 body {
-	background: $white;
+  background: $white;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
 
 .container {
   margin: 0 auto;
-  max-width: 780px;
+  max-width: 800px;
   padding: 0 10px;
   width: 100%;
 }
@@ -287,7 +287,7 @@ footer {
     position: fixed;
     top: 23px;
     width: 250px;
-    font-size: 15px;
+    font-size: 20px;
 }
 
 .static-link {
@@ -303,6 +303,24 @@ footer {
     }
 }
 
+.rss-link {
+    margin-left: 20px;
+    color: $darkGray;
+    text-align: right;
+    font-weight: 300;
+    letter-spacing: 1px;
+    font-size: 15px;
+
+    @include mobile {
+        margin: 0 10px;
+        color: $blue;
+    }
+}
+
+.rss-image {
+   width: 15px;
+   height: 15px;
+}
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
