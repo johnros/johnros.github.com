@@ -54,11 +54,11 @@ Despite my best efforts, it proably still contains errors. Drop me a note if you
 |                 |basis augmentation     |feature creation|            |
 |                 |missing data imputation|collaborative filtering|     |
 |                 |statistical process control|semi supervised novelty detection||
-|Data             |data, sample, observations|examples, training sample, instances||
+|data             |data, sample, observations|examples, training sample, instances||
 |                 |--                     |validation sample|           |
 |                 |--                     |test sample      |           |
 |                 |covariates, design, $X$-matrix|features, attributes|      |
-|Methods          |M-estimation             |empirical risk minimization|           |
+|methods          |M-estimation             |empirical risk minimization|           |
 |                 |R-estimation             |--                         |           |
 |                 |L-Estimation             |--                         |           |
 |                 |moment matching          |--                         |           |
@@ -66,18 +66,18 @@ Despite my best efforts, it proably still contains errors. Drop me a note if you
 |                 |U-estimation, V-estimation|generative unsupervised RKHS learning|estimating by averaging some (kernel) function over all choices of r sets of observations.|
 |                 |K-estimation             |--                         |           |
 |                 |Fisher's LDA (assuming independence)|Gaussian Naive Bayes|       |
-|Interval methods |confidence intervals     |PAC learnable              |           |
+|interval methods |confidence intervals     |PAC learnable              |           |
 |                 |credible interval        |PAC Bayes learnable        |           |
 |                 |fiducial interval        |--                         |           |
 |                 |prediction interval      |--                         |           |
-|Error decomposition|misspecification error|approximation error         |when the hypothesis does not belong to the assume model space.|
+|error decomposition|misspecification error|approximation error         |when the hypothesis does not belong to the assume model space.|
 |                 |risk                     |estimation error, expected prediction error, test Error            |           |
 |                 |--                       |optimization Error         |           
 |                 |optimism                 |test error-training Error  |           |
 |                 |RSS                      |empirical risk, training error         |           |
 |                 |Jackknife                |hypothesis stability       |change in estimator under removal of an observation|
 |                 |model selection          |structural risk minimization|          |
-|Problem complexity measures|generalized degrees of freedom|Rademacher complexity   |                 |                 |sample size              |sample complexity          |           |
+|problem complexity measures|generalized degrees of freedom|Rademacher complexity   |                 |                 |sample size              |sample complexity          |           |
 
 
 
