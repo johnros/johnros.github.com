@@ -77,7 +77,8 @@ Despite my best efforts, it proably still contains errors. Drop me a note if you
 |                 |RSS                      |empirical risk, training error         |           |
 |                 |Jackknife                |hypothesis stability       |change in estimator under removal of an observation|
 |                 |model selection          |structural risk minimization|          |
-|problem complexity measures|generalized degrees of freedom|Rademacher complexity   |                 |                 |sample size              |sample complexity          |           |
+|problem complexity measures|generalized degrees of freedom|Rademacher complexity   |           |
+|                 |sample size              |sample complexity          |           |
 
 
 
