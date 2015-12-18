@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Favorite Quotes
+title: Quotes
 permalink: /quotes/
 categories: [static_page]
 ---
