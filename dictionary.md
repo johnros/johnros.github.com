@@ -21,6 +21,7 @@ Despite my best efforts, it proably still contains errors. Drop me a note if you
 |                 |deterministic outcome|realizable learning|         |
 |                 |sampling distribution|generative model |           |
 |output range     |                   |improper learning  |estimator allowed to be outside the parameter space|
+|-----------------|-------------------|-------------------|-----------|
 |model types      | CART              |decision tree, axis parallel rectangles||
 |                 |piecewise constant function|decision list|     |
 |                 |--                 |Boolean circuit    |           |
