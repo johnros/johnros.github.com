@@ -18,7 +18,7 @@ Father (x2), husband, beach-volleyball player, and data-hacker(*).
 PhD on statistical methods for neuroscience with [Yoav Benjamini](http://www.math.tau.ac.il/~ybenja/) at [Tel Aviv University](https://english.tau.ac.il/). 
 Postdoc at the [Faculty of Math and CS](http://wws.weizmann.ac.il/math/) at the [Weizmann Institute of Science](http://www.weizmann.ac.il/).
 Working with [Boaz Nadler](http://www.wisdom.weizmann.ac.il/~nadler/) on distributed algorithms for machine learning.
-Presently a faculty member at the [Dept. of Industrial Engineering and Management](http://in.bgu.ac.il/engn/iem/Pages/default.aspx), and member of the [Zlotowski Center for Neuroscience](http://in.bgu.ac.il/en/zlotowski/Pages/default.aspx).
+Presently a faculty member at the [Dept. of Industrial Engineering and Management](http://in.bgu.ac.il/engn/iem/Pages/default.aspx) at Ben Gurion University of the Negev, and member of the [Zlotowski Center for Neuroscience](http://in.bgu.ac.il/en/zlotowski/Pages/default.aspx).
 
 
 (*) statistics + machine-learning + data science + programming + system administration. 
