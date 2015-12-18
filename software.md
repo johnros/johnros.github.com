@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Software and Hardware
+title: Computing
 permalink: /software/
 categories: [static_page]
 ---
