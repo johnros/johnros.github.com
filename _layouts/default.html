@@ -35,7 +35,7 @@
       </div>
     </div>
     
-    <div class='static-pages'>
+    <nav class='static-pages'>
         <p><a class='static-link' href="{{ site.baseurl }}/">Home</a></p>
         <p><a class='static-link' href="{{ site.baseurl }}/blog/">Blog</a></p>
         {% for page in site.pages %}
@@ -47,7 +47,7 @@
         {% endfor %}
         <br/>
         <p><a class='rss-link' href="{{ site.baseurl }}/feed.xml"><img class="rss-image" src="{{ site.baseurl }}/images/feed.png"></img>  RSS</a></p>
-    </div>
+    </nav>
 
     <div id="main" role="main" class="container">
       {{ content }}
