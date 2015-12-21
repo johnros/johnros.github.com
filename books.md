@@ -13,7 +13,8 @@ A high level, almost philosophical text, on the basic ideas in statistics. Possi
 2. Wasserman, Larry. __All of Statistics__: A Concise Course in Statistical Inference. 
 A one stop shop for almost all of the fundamental ideas in statistics.
 3. van der Vaart, A. W. __Asymptotic Statistics__. 
-Much, if not most, of classical statistics is asymptotic. This book can serve both as an introduction, and as a technical reference for the vast realm of asymptotic statistics.
+Much, if not most, of classical statistics is asymptotic. 
+This book can serve both as an introduction, and as a technical reference for the vast realm of asymptotic statistics.
 4. Hastie, T, R Tibshirani, and JH Friedman. __The Elements of Statistical Learning__. 
 A one stop shop for machine learning, cast in statistical termonology.
 5. Tsybakov, A. B. __Introduction to Nonparametric Estimation__. 
