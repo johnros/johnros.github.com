@@ -210,36 +210,6 @@ img {
   }
 }
 
-nav {
-  float: right;
-  margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $helveticaNeue;
-  font-size: 18px;
-
-  @include mobile {
-    float: none;
-    margin-top: 9px;
-    display: block;
-    font-size: 16px;
-  }
-
-  a {
-    margin-left: 20px;
-    color: $darkGray;
-    text-align: right;
-    font-weight: 300;
-    letter-spacing: 1px;
-
-    @include mobile {
-      margin: 0 10px;
-      color: $blue;
-    }
-  }
-}
-
-//
-// .main
-//
 
 .posts > .post {
   padding-bottom: 2em;
@@ -288,6 +258,41 @@ footer {
     top: 23px;
     width: 250px;
     font-size: 20px;
+    @include mobile {
+      top: 0px;
+      position: relative;
+      float: none;
+      border: 1px solid black;
+      width: 100%;
+      display: inline-block;
+    }
+}
+
+nav {
+  float: right;
+  margin-top: 23px; // @TODO: Vertically middle align
+  font-family: $helveticaNeue;
+  font-size: 18px;
+
+  @include mobile {
+    margin: 0 0 50px 0;
+    float: none;
+    display: block;
+    font-size: 16px;
+  }
+
+  a {
+    margin-left: 20px;
+    color: $darkGray;
+    text-align: right;
+    font-weight: 300;
+    letter-spacing: 1px;
+
+    @include mobile {
+      margin: 0 10px;
+      color: $blue;
+    }
+  }
 }
 
 .static-link {
@@ -300,6 +305,7 @@ footer {
     @include mobile {
         margin: 0 10px;
         color: $blue;
+        float: left;
     }
 }
 
@@ -314,6 +320,7 @@ footer {
     @include mobile {
         margin: 0 10px;
         color: $blue;
+        float: right;
     }
 }
 
