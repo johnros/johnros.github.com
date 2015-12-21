@@ -48,7 +48,7 @@ Finds the prevalence of activation in fMRI group studies, presented in [our pape
     - [Filezilla](https://filezilla-project.org/): a friendly GUI for your file transports.
     - [SSH Tunnel Manager](http://sourceforge.net/projects/gstm/): A friendly GUI for ssh tunneling. 
 
-Software I want to try but didn't have the time yet:
+## Software I want to try but didn't have the time yet:
 
 - [Julia](http://julialang.org/).
 - [Mendeley](http://www.mendeley.com/) for reference management. 
