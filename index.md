@@ -36,7 +36,7 @@ Working with [Boaz Nadler](http://www.wisdom.weizmann.ac.il/~nadler/) on distrib
 - __Distributed Machine Learning:__
 Today's BIG computing problems are solved, not with super-computers, but rather with thousands of smaller computers working together. 
 This requires redesigning classical algorithms, originally designed for the serial computing age, and applying them to distributed computing environments. 
-My research focuses on doing just than, for machine learning  (thus for other stochastic optimization problems).
+My research focuses on doing just that, for machine learning algorithms (and thus for other stochastic optimization problems).
 
 
 - __On Brain Maps:__
