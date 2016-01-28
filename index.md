@@ -33,12 +33,14 @@ Working with [Boaz Nadler](http://www.wisdom.weizmann.ac.il/~nadler/) on distrib
 
 ## Research Interests
 
-- __On Accuracy and Complexity:__
-A tradeoff exists between statistical accuracy and computational complexity. This observation is hardly new, and has motivated much work in statistics and machine learning. 
-I work on computable large scale machine learning algorithms, designed under realistic computer-architecture constraints.  
+- __Distributed Machine Learning:__
+Today's BIG computing problems are solved, not with super-computers, but rather with thousands of smaller computers working together. 
+This requires redesigning classical algorithms, originally designed for the serial computing age, and applying them to distributed computing environments. 
+My research focuses on doing just than, for machine learning  (thus for other stochastic optimization problems).
+
 
 - __On Brain Maps:__
-I am interested in the methdological problems of brain imaging:
+I am interested in the methodological problems of brain imaging:
 How to generalize findings from a group study to a "typical brain"? 
 How to analyze imaging genetic studies where the number of relations to study is in the Billions $$(10^9)$$? 
 How to account for the bias introduced by search-and-select methods such as region selection in social neuroscience ("Voodoo correlations"), and searchlight analysis in multivoxel pattern recognition?
