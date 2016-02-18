@@ -29,4 +29,8 @@ As the name suggests, your one stop shop for information theory.
 
 Feel free to use this list, and recommend more entries.
 
+Some other book recommendations worth following:
+
+- [Korbinian Strimmer's](http://strimmerlab.org/korbinian.html) [list](http://strimmerlab.org/notes/textbooks.html): including only freely available books. 
+- [Cosma Shalizi's](http://www.stat.cmu.edu/~cshalizi/) endless list of [book reviews](http://bactra.org/weblog/cat_algae.html). 
 
