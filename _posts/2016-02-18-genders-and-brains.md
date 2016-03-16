@@ -22,7 +22,7 @@ This publications contradicts much of the corpus of knowledge on brains and gend
 In short and as put by Carl Sagan: 
 "__Absence of evidence is not evidence of absence__". 
 
-Indeed, by performing many univariate analyses, the authors show that males and females do not  any particular pattern in the brains' structure, as least as recorded by MRI scans.
+Indeed, by performing many univariate analyses, the authors show that males and females do not show any particular pattern in the brains' structure, as least as recorded by MRI scans.
 It is, however, quite possible for two multivariate data sets to be nicely separated, but not so in any of the "raw" univariate measurements. 
 The following figure is a toy example of a dataset which cannot be separated by any single (raw) variable, but certainly can when considering two variables simultaneously. 
 
