@@ -28,7 +28,7 @@ The following figure is a toy example of a dataset which cannot be separated by 
 
  ![Multivariate seperability](../images/overlap.png) 
  
- I suspect this is what happened in the case of "Sex Beyond the Genitalia". When I [reanalyzed the same data](http://www.pnas.org/content/early/2016/03/15/1523961113.full?sid=71a90a9a-ec35-45a3-a11a-63d0fc116fa9) the __multivariate__ brain structures of males and females was different enough, so that the gender could be inferred from the MRI data alone, with $~ 80\%$ accuracy(!). 
+ I suspect this is what happened in the case of "Sex Beyond the Genitalia". When I [reanalyzed the same data](http://www.pnas.org/content/early/2016/03/15/1523961113.full?sid=71a90a9a-ec35-45a3-a11a-63d0fc116fa9) the __multivariate__ brain structures of males and females was different enough, so that the gender could be inferred from the MRI data alone, with $$~ 80\%$$ accuracy(!). 
 
 It also seems I was not the only one troubled by Joel et al.'s findings. Here is 
 [Del Giudice et al.'s](http://www.pnas.org/content/early/2016/03/15/1525534113.full?sid=71a90a9a-ec35-45a3-a11a-63d0fc116fa9) comment, 
