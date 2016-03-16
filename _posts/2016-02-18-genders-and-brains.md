@@ -34,4 +34,14 @@ It also seems I was not the only one troubled by Joel et al.'s findings. Here is
 [Del Giudice et al.'s](http://www.pnas.org/content/early/2016/03/15/1525534113.full?sid=71a90a9a-ec35-45a3-a11a-63d0fc116fa9) comment, 
 [Chekroud et al.'s](http://www.pnas.org/content/early/2016/03/15/1523888113.full),
 [Marek Glazerman's](http://www.pnas.org/content/early/2016/03/07/1524418113.extract), 
-[David Schmidt's](https://www.psychologytoday.com/blog/sexual-personalities/201512/statistical-abracadabra-making-sex-differences-disappear), alongside [Joel's reply to the critics](http://www.pnas.org/content/early/2016/03/15/1600792113.full?sid=71a90a9a-ec35-45a3-a11a-63d0fc116fa9#ref-8).
+[David Schmidt's](https://www.psychologytoday.com/blog/sexual-personalities/201512/statistical-abracadabra-making-sex-differences-disappear).
+
+In [Joel's reply to the critics](http://www.pnas.org/content/early/2016/03/15/1600792113.full?sid=71a90a9a-ec35-45a3-a11a-63d0fc116fa9#ref-8) they no longer insist that 
+"_human brains do not belong to one of two distinct categories: male brain/female brain_", but rather soften their claims:
+"_it is unclear what the biological meaning of the new space is and in what sense brains that seem close in this space are more similar than brains that seem distant_".
+
+I agree. For the purposes of __intepreting__ the dimensions in which male and female differ, some feature selection can be introduced. 
+I will leave that for future neuroimaing research. 
+
+
+
