@@ -17,7 +17,7 @@ This was a very high profile study as can be seen by the mentions in
 [CBCNews](http://www.cbc.ca/news/technology/brain-sex-differences-1.3344954), and many more. 
 
 
-This publications contradicts much of the corpus of knowledge on brains and gender, and thus took the scientific community by surprise. How can this be?
+This publication contradicts much of the corpus of knowledge on brains and gender, and thus took the scientific community by surprise. How can this be?
 
 In short and as put by Carl Sagan: 
 "__Absence of evidence is not evidence of absence__". 
