@@ -45,3 +45,44 @@ I will leave that for future neuroimaing research.
 
 
 
+__Edit__(19.3.2016):
+Here is the code that generated the above figure:
+``` r
+library(mvtnorm)
+library(magrittr)
+library(MASS)
+library(ggplot2)
+library(gridExtra)
+
+
+n <- 1e3
+set.seed(999)
+X <- rmvnorm(n = n, mean = c(0,0))
+beta <- 10*c(1,1)
+y <- rbinom(n=n, size = 1, prob=plogis(X %*% beta)) %>% as.factor
+xy <- data.frame(x.1=X[,1], x.2=X[,2], y=y)
+
+
+empty <- ggplot() + geom_point(aes(1, 1), colour = "white") + theme(plot.background = element_blank(), 
+    panel.grid.major = element_blank(), panel.grid.minor = element_blank(), 
+    panel.border = element_blank(), panel.background = element_blank(), axis.title.x = element_blank(), 
+    axis.title.y = element_blank(), axis.text.x = element_blank(), axis.text.y = element_blank(), 
+    axis.ticks = element_blank())
+
+# scatterplot of x and y variables
+scatter <- ggplot(xy, aes(x.1, x.2)) + geom_point(aes(color = y)) + scale_color_manual(values = c("orange", 
+    "purple")) + theme(legend.position = c(1, 1), legend.justification = c(1, 
+    1))
+
+# marginal density of x - plot on top
+plot_top <- ggplot(xy, aes(x.1, fill = y)) + geom_density(alpha = 0.5) + 
+    scale_fill_manual(values = c("orange", "purple")) + theme(legend.position = "none")
+
+# marginal density of y - plot on the right
+plot_right <- ggplot(xy, aes(x.2, fill = y)) + geom_density(alpha = 0.5) + 
+    coord_flip() + scale_fill_manual(values = c("orange", "purple")) + theme(legend.position = "none")
+
+grid.arrange(plot_top, empty, scatter, plot_right, ncol = 2, nrow = 2, widths = c(4, 
+    1), heights = c(1, 4))
+
+```
