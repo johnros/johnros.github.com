@@ -47,7 +47,7 @@ I will leave that for future neuroimaing research.
 
 __Edit__(19.3.2016):
 Here is the code that generated the above figure:
-``` r
+```r
 library(mvtnorm)
 library(magrittr)
 library(MASS)
