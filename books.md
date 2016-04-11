@@ -16,7 +16,7 @@ A one stop shop for almost all of the fundamental ideas in statistics.
 Much, if not most, of classical statistics is asymptotic. 
 This book can serve both as an introduction, and as a technical reference for the vast realm of asymptotic statistics.
 4. Hastie, T, R Tibshirani, and JH Friedman. __The Elements of Statistical Learning__. 
-A one stop shop for machine learning, cast in statistical termonology.
+A one stop shop for machine learning, cast in statistical terminology.
 5. Tsybakov, A. B. __Introduction to Nonparametric Estimation__. 
 My favorite reference on non parametric statistics.
 6. Greene, William H. __Econometric Analysis__. 
@@ -26,6 +26,10 @@ The economic orientation adds very useful applied motivation, and an emphasis on
 An excellent introductory textbook to probability and stochastic processes.
 9. Cover, T. M., and Joy A. Thomas. __Elements of Information Theory__. 
 As the name suggests, your one stop shop for information theory.
+10. Wilcox, Rand R. __Introduction to Robust Estimation and Hypothesis Testing__. 
+A very well written exposition of the vast world of robust statistics. 
+A must read with whoever works with actual data, and not only theory. 
+
 
 Feel free to use this list, and recommend more entries.
 
