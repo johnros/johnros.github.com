@@ -67,6 +67,14 @@ I like to publish my class notes. Here are the notes of some courses I give. The
 - [Quality Engineering](https://github.com/johnros/qualityEngineering/blob/master/Class_notes/notes.pdf).
 - [Machine Learning and Data Mining](https://github.com/johnros/Intro2R).
 
+## For Employers
+
+If you are looking for a good data scientist in Israel, I am afraid you are not alone.
+Some places you may reach out to our graduates, and other data scietists:
+
+- [ISA jobs listings](https://groups.google.com/forum/#!forum/isa-jobs)
+- BGU Industrial Engineering and Management [alumni Facebook page](https://www.facebook.com/groups/2080alumni/).
+
 ## Contact
 
 My mail is at the head of this page. Alternatively, just follow the links at the bottom of the page.
