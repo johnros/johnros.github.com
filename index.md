@@ -70,7 +70,7 @@ I like to publish my class notes. Here are the notes of some courses I give. The
 ## For Employers
 
 If you are looking for a good data scientist in Israel, I am afraid you are not alone.
-Some places you may reach out to our graduates, and other data scietists:
+Some places you may reach out to our graduates, and other data scientists:
 
 - [ISA jobs listings](https://groups.google.com/forum/#!forum/isa-jobs)
 - BGU Industrial Engineering and Management [alumni Facebook page](https://www.facebook.com/groups/2080alumni/).
