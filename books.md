@@ -29,6 +29,7 @@ As the name suggests, your one stop shop for information theory.
 10. Wilcox, Rand R. __Introduction to Robust Estimation and Hypothesis Testing__. 
 A very well written exposition of the vast world of robust statistics. 
 A must read with whoever works with actual data, and not only theory. 
+11. Robert E. Weiss. __Modelling Longitudinal Data__. My favorite reference on the topic. 
 
 
 Feel free to use this list, and recommend more entries.
