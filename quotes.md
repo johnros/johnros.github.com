@@ -10,7 +10,8 @@ categories: [static_page]
 - A person who is shy will never learn, and a teacher who is too strict cannot teach . . . and in a place where there are no men, strive to be a man-- Rabbi Hillel
 - All that is necessary for evil to triumph is for good men to do nothing-- War & Peace. Also attributed to Edmund Burke.
 - Nothing is stronger than an idea whose time has come-- Victor Hugo.
-- Study without desire spoils the memory, and it retains nothing that it takes in-- Leonardo da Vinci. - The most radical revolutionary will become a conservative the day after the revolution-- Hannah Arendt
+- Study without desire spoils the memory, and it retains nothing that it takes in-- Leonardo da Vinci.
+- The most radical revolutionary will become a conservative the day after the revolution-- Hannah Arendt
 
 ## Work
 
