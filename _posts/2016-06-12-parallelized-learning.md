@@ -27,10 +27,10 @@ When there are many more observations, per machine, than parameters to estimate,
 When the number of observations is not much greater than the number of parameters, then there is indeed an accuracy loss. This loss is greater for non-linear models, than linear. 
 
 If it unclear why accuracy is lost when averaging, think of linear regression.
-The (squared) risk minimizer is $\beta^*=\Sigma^{-1} \alpha$, where $\Sigma= E[x x']$ and $\alpha=E[x y]$.
-The empirical risk minimizer, $\hat{\beta}=(X'X)^{-1} X'y$, is merely its empirical equivalent. 
-If rows of the $X$ matrix are distributed over machines, which do not communicate, then instead of the full $(X'X)^{-1}$ we can only compute machine-wise estimates. 
-It turns out, that even in this simple linear regression problem, aggregating the various machine wise $\hat{\beta}$, e.g., by averaging, is less accurate than computing $\hat{\beta}$ with the whole data. 
+The (squared) risk minimizer is $$\beta^*=\Sigma^{-1} \alpha$$, where $$\Sigma= E[x x']$$ and $$\alpha=E[x y]$$.
+The empirical risk minimizer, $$\hat{\beta}=(X'X)^{-1} X'y$$, is merely its empirical equivalent. 
+If rows of the $$X$$ matrix are distributed over machines, which do not communicate, then instead of the full $$(X'X)^{-1}$$ we can only compute machine-wise estimates. 
+It turns out, that even in this simple linear regression problem, aggregating the various machine wise $$\hat{\beta}$$, e.g., by averaging, is less accurate than computing $$\hat{\beta}$$ with the whole data. 
 
 The statistical analysis of the split-and-average algorithm has several implications:
 It informs the practitioner which algorithms can be safely computed in parallel, and which need more attention. 
