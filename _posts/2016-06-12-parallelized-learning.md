@@ -7,7 +7,7 @@ tags:  [statistics, machine-learning]
 ---
 
 Most machine learning algorithms are optimization problems. 
-If they are not, they can often be cast on such.
+If they are not, they can often be cast as such.
 Optimization problems are notoriously hard to distribute. 
 That is why machine learning from distributed BigData databases is so challenging.
 
