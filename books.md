@@ -38,4 +38,4 @@ Some other book recommendations worth following:
 
 - [Korbinian Strimmer's](http://strimmerlab.org/korbinian.html) [list](http://strimmerlab.org/notes/textbooks.html): including only freely available books. 
 - [Cosma Shalizi's](http://www.stat.cmu.edu/~cshalizi/) endless list of [book reviews](http://bactra.org/weblog/cat_algae.html). 
-
+- Joseph Misiti's [curated list](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md) of online books.
