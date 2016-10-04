@@ -64,7 +64,7 @@ Working with [Boaz Nadler](http://www.wisdom.weizmann.ac.il/~nadler/) on distrib
 - Presently, a faculty member at the [Dept. of Industrial Engineering and Management](http://in.bgu.ac.il/engn/iem/Pages/default.aspx) at the Ben Gurion University of the Negev, and also:
     - Member of the [Zlotowski Center for Neuroscience](http://in.bgu.ac.il/en/zlotowski/Pages/default.aspx).
     - Member of the Tel-Aviv University [Replicability Research Group ](http://www3.tau.ac.il/replicability/index.php).
-    - Member of the Latin American Brain Mapping Network ([LABMAN](http://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=3735)).
+    - Member of the Latin American Brain Mapping Network ([LABMAN](http://www.labman.org/)).
 
 
 (*) statistics + machine-learning + data science + programming + system administration. 
