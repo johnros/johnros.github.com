@@ -79,7 +79,7 @@ If you are looking for a good data scientist in Israel, I am afraid you are not 
 Some places you may reach out to our graduates, and other data scientists:
 
 - [ISA jobs listings](https://groups.google.com/forum/#!forum/isa-jobs)
-- BGU Industrial Engineering and Management [alumni Facebook page](https://www.facebook.com/groups/2080alumni/).
+- BGU Industrial Engineering and Management [LinkedIn Group](https://www.linkedin.com/groups/10320550).
 
 
 
