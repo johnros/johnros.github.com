@@ -88,5 +88,5 @@ Some places you may reach out to our graduates, and other data scientists:
 
 My mail is at the head of this page. Alternatively, just follow the links at the bottom of the page.
 
-If you want to join the BGU data-science mailing list, click [here](https://groups.google.com/forum/#!forum/bgu-data-forum).  
+If you want to join the __BGU data-science mailing__ list, click [here](https://groups.google.com/forum/#!forum/bgu-data-forum).  
 
