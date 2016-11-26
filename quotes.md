@@ -10,7 +10,8 @@ categories: [static_page]
 - A person who is shy will never learn, and a teacher who is too strict cannot teach . . . and in a place where there are no men, strive to be a man-- Rabbi Hillel
 - All that is necessary for evil to triumph is for good men to do nothing-- War & Peace. Also attributed to Edmund Burke.
 - Nothing is stronger than an idea whose time has come-- Victor Hugo.
-- Study without desire spoils the memory, and it retains nothing that it takes in-- Leonardo da Vinci. 
+- Study without desire spoils the memory, and it retains nothing that it takes in-- Leonardo da Vinci.
+- The most radical revolutionary will become a conservative the day after the revolution-- Hannah Arendt
 
 ## Work
 
@@ -27,6 +28,8 @@ categories: [static_page]
 - Why do we aspire to be second-rate mathematicians when we could be first- rate scientists?-- George Box
 - A good notation has a subtlety and suggestiveness which at times make it almost seem like a live teacher-- Bertrand Russel
 - While it is easy to lie with statistics, it is even easier to lie without them-- Frederick Mosteller. 
+- The simple idea of splitting a sample into two and then developing the hypothesis on the basis of one part and testing it on the remainder may perhaps be said to be one of the most seriously neglected ideas in statistics.-- G. A. BARNAR
+
 
 ## Programming
 
