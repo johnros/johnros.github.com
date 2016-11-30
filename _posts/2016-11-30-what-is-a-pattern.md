@@ -11,7 +11,7 @@ We do so because MVPA is typically used for signal localization, i.e., the detec
 
 Our major conclusion is that __group MVPA tests a qualitatively different hypothesis than that tested in univariate analysis__. 
 We show that in regions detected with MVPA subjects may have actually responded very differently.  
-In particular, an "information encoding" region may be one where some subjects show an __increase__ in blood oxygenation (BOLD), while other a __decrease__. 
+In particular, an "information encoding" region may be one where some subjects show an __increase__ in blood oxygenation (BOLD), while others a __decrease__. 
 
 This is a surprising result since it means that the shift from the analysis of one voxel at-a-time to several-voxels at a time, also entailed a re-definition of "what is an activation?".
 In particular, the MVPA definition of activation is such that it is much harder to interpret biologically. 
