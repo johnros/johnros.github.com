@@ -6,7 +6,7 @@ tags:  [statistics, machine-learning, brain]
 ---
 
 
-In our recent contribution [1], just published on [Neuroimage](http://www.sciencedirect.com/science/article/pii/S1053811916306401) we cast the popular Multi-Voxel Pattern Analysis framework (MVPA) in terms of hypothesis testing. 
+In our recent contribution [1], just published in [Neuroimage](http://www.sciencedirect.com/science/article/pii/S1053811916306401) we cast the popular Multi-Voxel Pattern Analysis framework (MVPA) in terms of hypothesis testing. 
 We do so because MVPA is typically used for signal localization, i.e., the detection of "information encoding" regions. 
 
 Our major conclusion is that __group MVPA tests a qualitatively different hypothesis than that tested in univariate analysis__. 
@@ -14,7 +14,7 @@ We show that in regions detected with MVPA subjects may have actually responded 
 In particular, an "information encoding" region may be one where some subjects show an __increase__ in blood oxygenation (BOLD), while other a __decrease__. 
 
 This is a surprising result since it means that the shift from the analysis of one voxel at-a-time to several-voxels at a time, also entailed a re-definition of "what is an activation?".
-In particular, the MVPA definition of activation is such that is much harder to interpret biologically. 
+In particular, the MVPA definition of activation is such that it is much harder to interpret biologically. 
 
 Clearly, the choice of the null and alternative, i.e., the definition of signal, is case dependent, and should be left to the neuroscientist's best judgement. 
 It is our hope, that our observation will facilitate such an informed choice. 
