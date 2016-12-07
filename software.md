@@ -57,5 +57,5 @@ Finds the prevalence of activation in fMRI group studies, presented in [our pape
 ## Hardware I use
 
 - __Server__- Lenovo [X3750-M4](http://shop.lenovo.com/us/en/systems/servers/mission-critical/x3750-m4/): Just because I find that the batch cluster computing paradigm (e.g. [Condor](https://en.wikipedia.org/wiki/HTCondor), [SGE](https://en.wikipedia.org/wiki/Oracle_Grid_Engine), etc.) is not suited for modern interactive data analysis. I found that you can get much more done with a single, massive, multiple core, RAM rich, server (running RStudio Server obviously).
-- __Laptop__- Lenovo [T440s](http://shop.lenovo.com/us/en/laptops/thinkpad/t-series/t440s/): Elegant and powerful. 
+- __Laptop__- Lenovo [T460s](http://shop.lenovo.com/il/en/laptops/thinkpad/t-series/t460s/): The size of the X1 with the power of the T series. 
 - __Cloud__- [AWS](http://aws.amazon.com/): For any ad-hoc hardware needs (which is quite often for me), I [just start](http://www.r-statistics.com/2013/07/analyzing-your-data-on-the-aws-cloud-with-r/) an EC2 instance.
