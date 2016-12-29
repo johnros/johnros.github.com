@@ -40,7 +40,7 @@ A must read with whoever works with actual data, and not only theory.
 
 11. Robert E. Weiss. __Modelling Longitudinal Data__. My favorite reference on the topic. 
 
-12. James E. Gentle. __Numerical Linear Algebra for Applications in Statistics__. Because we may write $A^{-1}b=x$, but a computer would never invert a matrix to solve this problem. 
+12. James E. Gentle. __Numerical Linear Algebra for Applications in Statistics__. Because we may write $$A^{-1}b=x$$, but a computer would never invert a matrix to solve this problem. 
 
 Feel free to use this list, and recommend more entries.
 
