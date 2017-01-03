@@ -50,7 +50,7 @@ I like to publish my class notes. Here are the notes of some courses I give. The
 
 - [Quality Engineering](https://github.com/johnros/qualityEngineering/blob/master/Class_notes/notes.pdf).
 - [Machine Learning and Data Mining](https://github.com/johnros/Intro2R).
-
+- [Diemsionality Reduction](https://github.com/johnros/dim_reduce): a one class intro to dimensionality reduction. 
 
 ## Biosketch
 
