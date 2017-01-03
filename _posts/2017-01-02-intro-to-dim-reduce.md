@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Intro to dimensionality reductin"
+title: "Intro to dimensionality reduction"
 category: 
 tags:  [statistics, machine-learning]
 ---
