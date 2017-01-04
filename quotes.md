@@ -28,7 +28,7 @@ categories: [static_page]
 - Why do we aspire to be second-rate mathematicians when we could be first- rate scientists?-- George Box
 - A good notation has a subtlety and suggestiveness which at times make it almost seem like a live teacher-- Bertrand Russel
 - While it is easy to lie with statistics, it is even easier to lie without them-- Frederick Mosteller. 
-- The simple idea of splitting a sample into two and then developing the hypothesis on the basis of one part and testing it on the remainder may perhaps be said to be one of the most seriously neglected ideas in statistics.-- G. A. BARNAR
+- The simple idea of splitting a sample into two and then developing the hypothesis on the basis of one part and testing it on the remainder may perhaps be said to be one of the most seriously neglected ideas in statistics.-- George A. Barnard
 
 
 ## Programming
