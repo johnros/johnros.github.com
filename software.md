@@ -50,8 +50,8 @@ Finds the prevalence of activation in fMRI group studies, presented in [our pape
 
 ## Software I want to try but didn't have the time yet:
 
+- [Mendeley](http://www.mendeley.com/) or [Paperpile](https://paperpile.com/) for reference management. 
 - [Julia](http://julialang.org/).
-- [Mendeley](http://www.mendeley.com/) for reference management. 
 - [Python](https://www.python.org/).
 
 ## Hardware I use
