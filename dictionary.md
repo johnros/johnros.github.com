@@ -76,7 +76,7 @@ Despite my best efforts, it proably still contains errors. Drop me a note if you
 |                 |optimism                 |test error-training Error  |           
 |                 |RSS                      |empirical risk, training error|        
 |                 |Jackknife                |hypothesis stability       |           
-|                 |model selection          |structural risk minimization|          
+|                 |model selection          |structural learning        |          
 |problem complexity measures|generalized degrees of freedom|Rademacher complexity|  
 |                 |sample size              |sample complexity          |           
 
