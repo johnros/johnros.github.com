@@ -56,16 +56,15 @@ I like to publish my class notes. Here are the notes of some courses I give. The
 
 - Father (x2), husband, beach-volleyball player, and data-hacker(*).  
 
-- PhD on statistical methods for neuroscience with [Yoav Benjamini](http://www.math.tau.ac.il/~ybenja/) at [Tel Aviv University](https://english.tau.ac.il/). 
-
-- Postdoc at the [Faculty of Math and CS](http://wws.weizmann.ac.il/math/) at the [Weizmann Institute of Science](http://www.weizmann.ac.il/). 
-Working with [Boaz Nadler](http://www.wisdom.weizmann.ac.il/~nadler/) on distributed algorithms for machine learning. 
-
 - Presently, a faculty member at the [Dept. of Industrial Engineering and Management](http://in.bgu.ac.il/engn/iem/Pages/default.aspx) at the Ben Gurion University of the Negev, and also:
     - Member of the [Zlotowski Center for Neuroscience](http://in.bgu.ac.il/en/zlotowski/Pages/default.aspx).
     - Member of the Tel-Aviv University [Replicability Research Group ](http://www3.tau.ac.il/replicability/index.php).
     - Member of the Latin American Brain Mapping Network ([LABMAN](http://www.labman.org/)).
 
+- Postdoc at the [Faculty of Math and CS](http://wws.weizmann.ac.il/math/) at the [Weizmann Institute of Science](http://www.weizmann.ac.il/). 
+Working with [Boaz Nadler](http://www.wisdom.weizmann.ac.il/~nadler/) on distributed algorithms for machine learning. 
+
+- PhD on statistical methods for neuroscience with [Yoav Benjamini](http://www.math.tau.ac.il/~ybenja/) at [Tel Aviv University](https://english.tau.ac.il/). 
 
 (*) statistics + machine-learning + data science + programming + system administration. 
 
