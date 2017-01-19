@@ -42,6 +42,9 @@ A must read with whoever works with actual data, and not only theory.
 
 12. James E. Gentle. __Numerical Linear Algebra for Applications in Statistics__. Because we may write $$A^{-1}b=x$$, but a computer would never invert a matrix to solve this problem. 
 
+13. Venables, W.N. and Ripley, B.D. __Modern Applied Statistics with S__. Everything you need to actually analyze data in R. 
+
+
 Feel free to use this list, and recommend more entries.
 
 Some other book recommendations worth following:
