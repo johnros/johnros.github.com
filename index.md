@@ -49,6 +49,7 @@ See my [Google Scholar profile](https://scholar.google.co.il/citations?user=0Tl5
 I like to publish my class notes. Here are the notes of some courses I give. They are not error free, so use at your own discretion and feel free to contact me for clarifications and errata. 
 
 - [Quality Engineering](https://github.com/johnros/qualityEngineering/blob/master/Class_notes/notes.pdf), a.k.a. Industrial Statistics.
+- [R](http://www.john-ros.com/Rcourse/). An upcoming graduate course. 
 - [Machine Learning and Data Mining](https://github.com/johnros/Intro2R).
 - [Dimesionality Reduction](https://github.com/johnros/dim_reduce): a one class intro to dimensionality reduction. 
 
