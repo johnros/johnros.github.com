@@ -44,6 +44,7 @@ A must read with whoever works with actual data, and not only theory.
 
 13. Venables, W.N. and Ripley, B.D. __Modern Applied Statistics with S__. Everything you need to actually analyze data in R. 
 
+14. Rasmussen, C.E and Williams C.K.I. __Gaussian Processes for Machine Learning__. The first time I felt I understand RKHS.
 
 Feel free to use this list, and recommend more entries.
 
