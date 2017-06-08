@@ -10,17 +10,22 @@ categories: [static_page]
 - __RRHO R package__:
 Implements the [Rank-Rank Hypergeometric Overlap Test](http://nar.oxfordjournals.org/content/38/17/e169.abstract). 
 Download from [Bioconductor](http://www.bioconductor.org/packages/devel/bioc/html/RRHO.html) or [Github](https://github.com/johnros/RRHO). 
+
 - __chords R Package__:
-Estimate population size and degree distribution in respondent driven samples, presented in [our paper](http://arxiv.org/abs/1304.3505). [Download](http://cran.r-project.org/web/packages/chords/index.html) from CRAN
+Estimate population size and degree distribution in respondent driven samples, presented in [our paper](http://arxiv.org/abs/1304.3505). [Download](https://CRAN.R-project.org/package=chords) from CRAN
+
 - __SimpleLearner__:
 Implements an easy to tune polynomial deep learning network.
 [Download](https://github.com/johnros/SimpleLearner) from GitHub.
+
 - __Scraping ArXiv__:
 Script for scraping ArXiv meta data and doing some exploratory statistics of manuscript ArXiving.
 [Download](https://github.com/johnros/scaping_arxiv) from github.
+
 - __SelectiveCI R package__:
 Implements post-selection confidence intervals, presented in [our paper](http://www.ncbi.nlm.nih.gov/pubmed/25153699). 
 [Download](https://github.com/johnros/selectiveCI) from github.
+
 - __FPF R Package__:
 Finds the prevalence of activation in fMRI group studies, presented in [our paper](http://www.sciencedirect.com/science/article/pii/S1053811913008859). 
     - [Download](https://r-forge.r-project.org/projects/rosenblatt1/) from R-Forge.
