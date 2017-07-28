@@ -39,19 +39,15 @@ Finds the prevalence of activation in fMRI group studies, presented in [our pape
     - [RStudio Server](http://www.rstudio.com/ide/docs/server/getting_started) running in the [AWS](http://aws.amazon.com/) cloud for data analysis (see my [blogpost](http://www.r-statistics.com/2013/07/analyzing-your-data-on-the-aws-cloud-with-r/)).
 - Typesetting:
     - [TexStudio](http://texstudio.sourceforge.net/) for LaTeX editing. 
-    - [knitr](http://yihui.name/knitr/) for producing reports (but need to convert to [Shiny](http://shiny.rstudio.com/)).
+    - [bookdown](https://www.rstudio.com/resources/webinars/introducing-bookdown/) for authoring articles, books, and reports.
 - Version control: [git](http://git-scm.com/) with [github](https://github.com/) for code, manuscripts, etc.
 - [Scribus](http://www.scribus.net/canvas/Scribus)- for scientific posters. 
-- [Zotero](http://www.zotero.org/)- for managing references (I like [Mendeley](http://www.mendeley.com/), but I am already addicted). 
+- [Zotero](http://www.zotero.org/)- for managing references (I like [Mendeley](http://www.mendeley.com/), and [PaperPile](https://paperpile.com/app) but I am already addicted). 
 - [Calibre](http://calibre-ebook.com/) for managing my (e)book library.
 - [Reeder](http://reederapp.com/)- by far my favorite RSS reader (since GoogleReader closed).
 - [Pocket](http://getpocket.com/)- For all the "I want to read this later" sites.
 - [Jekyll](http://jekyllrb.com/) with GitHub: for blogging.
-- Linux Shell and system administration:
-    - [zsh](http://www.zsh.org/): I just like it better than [bash](https://www.gnu.org/software/bash/).
-    - [fish shell](http://fishshell.com/). Great shell (but don't make it default as it is not POSIX compatible).
-    - [Filezilla](https://filezilla-project.org/): a friendly GUI for your file transports.
-    - [SSH Tunnel Manager](http://sourceforge.net/projects/gstm/): A friendly GUI for ssh tunneling. 
+
 
 ## Software I want to try but didn't have the time yet:
 
@@ -59,8 +55,13 @@ Finds the prevalence of activation in fMRI group studies, presented in [our pape
 - [Julia](http://julialang.org/).
 - [Python](https://www.python.org/).
 
+
 ## Hardware I use
 
-- __Server__- Lenovo [X3750-M4](http://shop.lenovo.com/us/en/systems/servers/mission-critical/x3750-m4/): Just because I find that the batch cluster computing paradigm (e.g. [Condor](https://en.wikipedia.org/wiki/HTCondor), [SGE](https://en.wikipedia.org/wiki/Oracle_Grid_Engine), etc.) is not suited for modern interactive data analysis. I found that you can get much more done with a single, massive, multiple core, RAM rich, server (running RStudio Server obviously).
+- __Server__- Lenovo x3850-X6: 
+Just because I find that the batch cluster computing paradigm (e.g. [Condor](https://en.wikipedia.org/wiki/HTCondor), [SGE](https://en.wikipedia.org/wiki/Oracle_Grid_Engine), etc.) is not suited for modern interactive data analysis. I found that you can get much more done with a single, massive, multiple core, RAM rich, server (running RStudio Server obviously).
+
 - __Laptop__- Lenovo [T460s](http://shop.lenovo.com/il/en/laptops/thinkpad/t-series/t460s/): The size of the X1 with the power of the T series. 
-- __Cloud__- [AWS](http://aws.amazon.com/): For any ad-hoc hardware needs (which is quite often for me), I [just start](http://www.r-statistics.com/2013/07/analyzing-your-data-on-the-aws-cloud-with-r/) an EC2 instance.
+
+- __Cloud__- [AWS](http://aws.amazon.com/): 
+For any ad-hoc hardware needs (which is quite often for me), I [just start](http://www.r-statistics.com/2013/07/analyzing-your-data-on-the-aws-cloud-with-r/) an EC2 instance.
