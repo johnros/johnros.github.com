@@ -42,7 +42,7 @@ Finds the prevalence of activation in fMRI group studies, presented in [our pape
     - [bookdown](https://www.rstudio.com/resources/webinars/introducing-bookdown/) for authoring articles, books, and reports.
 - Version control: [git](http://git-scm.com/) with [github](https://github.com/) for code, manuscripts, etc.
 - [Scribus](http://www.scribus.net/canvas/Scribus)- for scientific posters. 
-- [Zotero](http://www.zotero.org/)- for managing references (I like [Mendeley](http://www.mendeley.com/), and [PaperPile](https://paperpile.com/app) but I am already addicted). 
+- [Zotero](http://www.zotero.org/)- for managing references (I like [Mendeley](http://www.mendeley.com/), [PaperPile](https://paperpile.com/app), and [F1000Workplace](http://f1000.com/work/), but I am already addicted). 
 - [Calibre](http://calibre-ebook.com/) for managing my (e)book library.
 - [Reeder](http://reederapp.com/)- by far my favorite RSS reader (since GoogleReader closed).
 - [Pocket](http://getpocket.com/)- For all the "I want to read this later" sites.
