@@ -19,6 +19,8 @@ categories: [static_page]
 
 - There are only two forces that unite men, fear and interest-- Napoleon Bonaparte
 
+- So plant your own gardens and decorate your own soul, instead of waiting for someone to bring you flowers-- Jorge Luis Borges
+
 
 ## Work
 
