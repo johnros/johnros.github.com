@@ -21,6 +21,8 @@ categories: [static_page]
 
 - So plant your own gardens and decorate your own soul, instead of waiting for someone to bring you flowers-- Jorge Luis Borges
 
+- You can always spot the pioneers by the arrows in their back-- William H. Calvin
+
 
 ## Work
 
