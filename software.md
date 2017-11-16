@@ -5,6 +5,12 @@ permalink: /software/
 categories: [static_page]
 ---
 
+__Personal note:__
+In the name of those Linux users who do not have/want MS-Word:
+Please make the effort of using .DOCX and not .DOC
+.DOCX is better supported in non-MS sofware.
+
+
 ## Software I wrote
 
 - __RRHO R package__:
