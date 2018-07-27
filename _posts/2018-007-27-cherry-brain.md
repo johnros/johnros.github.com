@@ -26,6 +26,8 @@ It means that ARI provides statistical guarantees if selecting clusters and esti
 It also means that one may create sub-clusters within significant clusters, and estimate TDP again, without losing error guarantees(!).
 It also means that one may select clusters using the TDP itself, and if unsatisfied with results, re-select clusters using which ever criterion, ad infinitude.
 
+Here is an example of PTD bounds in sub-clusters, within the originally selected clusters: ![here](../images/gonogo_perc4bis.png).
+
 How does this re-selection not invalidate error guarantees? 
 Put differently, how does ARI deal with this __infinite circularity__?
 The fundamental idea is similar to [Scheffe's method](https://en.wikipedia.org/wiki/Scheff%C3%A9%27s_method) in post-hoc inference. 
@@ -39,7 +41,7 @@ The answer is that the TDP bounds are indeed tight, at least in large clusters w
 Two fundamental ingredients allow ARI to provide informative TDP bounds, even after this infinitely circular inference. 
 The first ingredient, is that we do not consider all possible brain maps, but rather, we assume the the brain map is __smooth enough__. 
 This smoothness is implied by assuming that the brain map satisfies the _Simes Inequality_, which excludes extremely oscillatory brain maps, which would require more conservative bounds. 
-The Simes inequality is implied by the _Positive Regression Dependence on Subsets_ condition, which is frequently used in brain imaging, since it is required for [FDR control](https://en.wikipedia.org/wiki/False_discovery_rate) using the [Benjamini-Hochberg](https://en.wikipedia.org/wiki/False_discovery_rate#Benjamini%E2%80%93Hochberg_procedure) algorithm. 
+The Sims inequality is implied by the _Positive Regression Dependence on Subsets_ condition, which is frequently used in brain imaging, since it is required for [FDR control](https://en.wikipedia.org/wiki/False_discovery_rate) using the [Benjamini-Hochberg](https://en.wikipedia.org/wiki/False_discovery_rate#Benjamini%E2%80%93Hochberg_procedure) algorithm. 
 
 The second ingredient, is that the TDP bounds are provided by inverting a [closed testing procedure](https://en.wikipedia.org/wiki/Closed_testing_procedure), which is a powerful algorithm for multiple testing correction.
 
