@@ -18,7 +18,7 @@ The ARI framework has many benefits for our purpose:
 1. It takes voxel-wise p-values and returns TDP lower bounds. 
 1. The algorithm is very fast, as implemented in the [hommel](https://cran.r-project.org/package=hommel) R package. 
 1. For brain imaging, we wrote a wrapper package, _ARIbrain_, soon to be published in CRAN.
-1. The TDP bounds using ARI come with statistical error guarantees. Namely, with probability $1-\alpha$ (over repeated experiments), no cluster will have an over estimated TDP. 
+1. The TDP bounds using ARI come with statistical error guarantees. Namely, with probability $$1-\alpha$$ (over repeated experiments), no cluster will have an over estimated TDP. 
 1. The above guarantee applies no matter how clusters have been selected. 
 
 The last item has quite surprising implications. 
@@ -34,14 +34,14 @@ The fundamental idea is similar to [Scheffe's method](https://en.wikipedia.org/w
 The idea is to provide statistical guarantees on TDP to __all possible cluster selection__. This means that any cluster a practitioner may create, has already been accounted for by the ARI algorithm.
 
 Providing valid lower TDP bounds is clearly not the only task at hand. 
-Indeed, bounding all TDP's at $0$ satisfied the desired error guarantees, for all possible cluster selection. 
+Indeed, bounding all TDP's at $$0$$ satisfied the desired error guarantees, for all possible cluster selection. 
 The real matter is power: are the TDP bounds provided by ARI tight, given the massive number of implied clusters being considered? 
 The answer is that the TDP bounds are indeed tight, at least in large clusters where the spatial specificity paradox is indeed a concern. 
 
 Two fundamental ingredients allow ARI to provide informative TDP bounds, even after this infinitely circular inference. 
 The first ingredient, is that we do not consider all possible brain maps, but rather, we assume the the brain map is __smooth enough__. 
 This smoothness is implied by assuming that the brain map satisfies the _Simes Inequality_, which excludes extremely oscillatory brain maps, which would require more conservative bounds. 
-The Sims inequality is implied by the _Positive Regression Dependence on Subsets_ condition, which is frequently used in brain imaging, since it is required for [FDR control](https://en.wikipedia.org/wiki/False_discovery_rate) using the [Benjamini-Hochberg](https://en.wikipedia.org/wiki/False_discovery_rate#Benjamini%E2%80%93Hochberg_procedure) algorithm. 
+The Simes inequality is implied by the _Positive Regression Dependence on Subsets_ condition, which is frequently used in brain imaging, since it is required for [FDR control](https://en.wikipedia.org/wiki/False_discovery_rate) using the [Benjamini-Hochberg](https://en.wikipedia.org/wiki/False_discovery_rate#Benjamini%E2%80%93Hochberg_procedure) algorithm. 
 
 The second ingredient, is that the TDP bounds are provided by inverting a [closed testing procedure](https://en.wikipedia.org/wiki/Closed_testing_procedure), which is a powerful algorithm for multiple testing correction.
 
