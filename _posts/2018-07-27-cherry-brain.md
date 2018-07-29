@@ -63,4 +63,4 @@ The full details can be found in our recent contribution, now accepted to Neuroi
 
 [2] Goeman, Jelle J., and Aldo Solari. "Multiple testing for exploratory research." Statistical Science 26.4 (2011): 584-597.
 
-[3] Rosenblatt, J. D., Finos, L., Weeda, W. D., Solari, A., & Goeman, J. J. (2018). All-Resolutions Inference for brain imaging. NeuroImage.
+[3] Rosenblatt, J. D., Finos, L., Weeda, W. D., Solari, A., & Goeman, J. J. (2018). All-Resolutions Inference for brain imaging. NeuroImage. https://doi.org/10.1016/j.neuroimage.2018.07.060
