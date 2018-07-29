@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Spatial Specificity Paradox in brain imaging, remedied with valid infinite circular inference"
+title: "The Spatial Specificity Paradox in brain imaging, remedied with valid, infinitely-circular, inference"
 description: "Our latest contribution on localization of brain activation"
 category: 
 tags:  [statistics, machine-learning, brain]
@@ -31,7 +31,8 @@ Here is an example of PTD bounds in sub-clusters, within the originally selected
 How does this re-selection not invalidate error guarantees? 
 Put differently, how does ARI deal with this __infinite circularity__?
 The fundamental idea is similar to [Scheffe's method](https://en.wikipedia.org/wiki/Scheff%C3%A9%27s_method) in post-hoc inference. 
-The idea is to provide statistical guarantees on TDP to __all possible cluster selection__. This means that any cluster a practitioner may create, has already been accounted for by the ARI algorithm.
+The idea is to provide statistical guarantees on TDP to __all possible cluster selections__. 
+This means that any cluster a practitioner may create, has already been accounted for by the ARI algorithm.
 
 Providing valid lower TDP bounds is clearly not the only task at hand. 
 Indeed, bounding all TDP's at $$0$$ satisfied the desired error guarantees, for all possible cluster selection. 
