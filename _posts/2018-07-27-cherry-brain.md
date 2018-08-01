@@ -17,7 +17,7 @@ The ARI framework has many benefits for our purpose:
 
 1. It takes voxel-wise p-values and returns TDP lower bounds. 
 1. The algorithm is very fast, as implemented in the [hommel](https://cran.r-project.org/package=hommel) R package. 
-1. For brain imaging, we wrote a wrapper package, _ARIbrain_, soon to be published in CRAN.
+1. For brain imaging, we wrote a wrapper package, [ARIbrain](https://cran.r-project.org/package=ARIbrain).
 1. The TDP bounds using ARI come with statistical error guarantees. Namely, with probability $$1-\alpha$$ (over repeated experiments), no cluster will have an over estimated TDP. 
 1. The above guarantee applies no matter how clusters have been selected. 
 
