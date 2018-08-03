@@ -21,6 +21,7 @@ categories: [static_page]
 
 - You can always spot the pioneers by the arrows in their back-- William H. Calvin
 
+- The real voyage of discovery consists not in seeking new landscapes, but in having new eyes-- Marcel Proust 
 
 ## Work
 
