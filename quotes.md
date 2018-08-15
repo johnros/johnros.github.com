@@ -51,6 +51,7 @@ categories: [static_page]
 
 - The simple idea of splitting a sample into two and then developing the hypothesis on the basis of one part and testing it on the remainder may perhaps be said to be one of the most seriously neglected ideas in statistics.-- George A. Barnard
 
+- Any sample can come from any distribution-- Tukey and Trotter
 
 ## Programming
 
