@@ -35,6 +35,10 @@ What makes a statistical finding "convincing"? Are all arguments (Bayesian, Freq
 
 
 
+__I am actively recruiting PhD students and Post-docs with strong mathematical background to work on projects related to machine learning.__
+
+
+
 
 ## Publications
 See my [Google Scholar profile](https://scholar.google.co.il/citations?user=0Tl5z3QAAAAJ&hl=en).
