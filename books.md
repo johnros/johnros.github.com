@@ -46,6 +46,22 @@ A must read with whoever works with actual data, and not only theory.
 
 14. Rasmussen, C.E and Williams C.K.I. __Gaussian Processes for Machine Learning__. The first time I felt I understand RKHS.
 
+15. Bai, Z., and Silverstein, J.W. __Spectral Analysis of Large Dimensional Random Matrices__. For random matrix theory.
+
+16. Allard, D. and Chilès, J.P. and Delfiner P. __Geostatistics: Modeling Spatial Uncertainty__. As the name suggests.
+
+17. Weihs, C. and Mersmann, O. and Ligges, U. __Foundations of Statistical Algorithms: With References to R Packages__. Another excellent reference on numerical analysis and algorithms.
+
+18. Nahmias, S. and Cheng, Y. __Production and operations analysis__. One-stop-shop for industrial statistics and industrial engineering.
+
+19. Cano, E.L. and Moguerza, J.M. and Redchuk, A. __Six sigma with R: statistical engineering for process improvement__. For statistical process control.
+
+20. Cox, D.R. and Reid, N. __The theory of the design of experiments__. For DOE.
+
+21. Anderson, T.W. __An introduction to multivariate statistical analysis__.
+
+
+
 Feel free to use this list, and recommend more entries.
 
 Some other book recommendations worth following:
