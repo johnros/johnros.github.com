@@ -60,6 +60,8 @@ A must read with whoever works with actual data, and not only theory.
 
 21. Anderson, T.W. __An introduction to multivariate statistical analysis__.
 
+22. __The Princeton Companion to Applied Mathematics__. If you ever asked yourself "I wonder what does ZZZ means?", and didn't trust Wikipedia. 
+
 
 
 Feel free to use this list, and recommend more entries.
