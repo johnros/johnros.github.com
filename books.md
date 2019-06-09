@@ -60,9 +60,9 @@ A must read with whoever works with actual data, and not only theory.
 
 21. Anderson, T.W. __An introduction to multivariate statistical analysis__.
 
-22. __The Princeton Companion to Applied Mathematics__. If you ever asked yourself "I wonder what does ZZZ means?", and didn't trust Wikipedia. 
+22. __The Princeton Companion to Applied Mathematics__. For short, readable, and authoritative explanations of EVERYTHING in applied mathematics. 
 
-
+23. Bryant, R.E., and O'Hallaron D.R. __Computer Systems: A Programmer’s Perspective__. If you want to know how a computer works, for the purpose of programming (not maitaining it). 
 
 Feel free to use this list, and recommend more entries.
 
