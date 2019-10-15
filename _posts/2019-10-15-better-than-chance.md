@@ -16,7 +16,7 @@ This question also attracted the interest of my other colleagues: [Roy Mukamel](
 
 The core of the work is the comparison of power, of two main approaches: 
 (1) Detecting signal using a supervised-classifier, as described above. 
-(2) Detecting signal using multivariate hypothesis testing, such as Hotelling's $T^2$ test. 
+(2) Detecting signal using multivariate hypothesis testing, such as Hotelling's $$T^2$$ test. 
 We call the former an _accuracy test_, and the latter a _two-group_. 
 We studied the _high-dimension-small-sample setup_, where the dimension of each measurement, is comparable to the number of measurements. 
 This setup is consistent with applications in brain-imaging and genetics. 
