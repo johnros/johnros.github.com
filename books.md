@@ -64,6 +64,8 @@ A must read with whoever works with actual data, and not only theory.
 
 23. Bryant, R.E., and O'Hallaron D.R. __Computer Systems: A Programmer’s Perspective__. If you want to know how a computer works, for the purpose of programming (not maitaining it). 
 
+24. Solomon, Justin. __Numerical algorithms: methods for computer vision, machine learning, and graphics__. A complete, and well written exposition of many numerical algorithms. 
+
 Feel free to use this list, and recommend more entries.
 
 Some other book recommendations worth following:
