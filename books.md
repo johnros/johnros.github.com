@@ -31,6 +31,9 @@ The economic orientation adds very useful applied motivation, and an emphasis on
 8. Grimmett, Geoffrey R., and David R. Stirzaker. __Probability and Random Processes__. 
 An excellent introductory textbook to probability and stochastic processes.
 
+9. Guttorp, Peter, and Vladimir N. Minin. __Stochastic modeling of scientific data__. 
+Excellent reference on modeling strategies and stochastic processes. 
+
 9. Cover, T. M., and Joy A. Thomas. __Elements of Information Theory__. 
 As the name suggests, your one stop shop for information theory.
 
