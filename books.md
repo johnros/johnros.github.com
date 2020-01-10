@@ -69,6 +69,8 @@ A must read with whoever works with actual data, and not only theory.
 
 24. Solomon, Justin. __Numerical algorithms: methods for computer vision, machine learning, and graphics__. A complete, and well written exposition of many numerical algorithms. 
 
+25. Raftery, Adrian E., Martin T. Wells, and Martin A. Tanner. __Statistics in the 21st Century__. An excellent overview of the state of statistical research at the end of the 20th century. Icluding excellent topic overviews, and open research questions. 
+
 Feel free to use this list, and recommend more entries.
 
 Some other book recommendations worth following:
