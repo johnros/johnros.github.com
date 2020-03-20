@@ -49,7 +49,22 @@ See my [Google Scholar profile](https://scholar.google.co.il/citations?user=0Tl5
 I like to publish my class notes. Here are the notes of some courses I give. They are not error free, so use at your own discretion and feel free to contact me for clarifications and errata. 
 
 - [Quality Engineering](https://github.com/johnros/qualityEngineering/blob/master/Class_notes/notes.pdf), a.k.a. Industrial Statistics.
-- [R](http://www.john-ros.com/Rcourse/). An upcoming graduate course. 
+- [R](http://www.john-ros.com/Rcourse/). A graduate course for learning how to analyze data with R. Hebrew videos now online!
+    - [History and Basics](https://testblue.bgu.ac.il/playback/presentation/2.0/playback.html?meetingId=216cee520eef48a479ec8a39b15d360fa09a5c9b-1584003608377).
+    - [Basics continued](https://zoom.us/rec/share/2-1fMpzp-E1IU4nk5EXyXPF5Gtj8T6a81nRL-KELxU53yd_aMopZzIR8bz6YuFPm).
+    - data.table.
+    - Exploratory Statistics.
+    - Linear Models.
+    - Generalized Linear Models.
+    - Linear Mixed Models.
+    - Multivariate Statistics.
+    - Supervised Machine Learning.
+    - Unsupervised Machine Learning.
+    - Plotting.
+    - Writing Reports.
+    - Sparse Linear Algebra.
+    - Memory Efficiency.
+    - Parallel Computing.
 - [Machine Learning and Data Mining](https://github.com/johnros/Intro2R).
 - [Dimesionality Reduction](https://github.com/johnros/dim_reduce): a one class intro to dimensionality reduction. 
 
