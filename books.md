@@ -65,11 +65,13 @@ A must read with whoever works with actual data, and not only theory.
 
 22. __The Princeton Companion to Applied Mathematics__. For short, readable, and authoritative explanations of EVERYTHING in applied mathematics. 
 
-23. Bryant, R.E., and O'Hallaron D.R. __Computer Systems: A Programmer’s Perspective__. If you want to know how a computer works, for the purpose of programming (not maitaining it). 
+23. Bryant, R.E., and O'Hallaron D.R. __Computer Systems: A Programmer’s Perspective__. If you want to know how a computer works, for the purpose of programming (not maintaining it). 
 
 24. Solomon, Justin. __Numerical algorithms: methods for computer vision, machine learning, and graphics__. A complete, and well written exposition of many numerical algorithms. 
 
-25. Raftery, Adrian E., Martin T. Wells, and Martin A. Tanner. __Statistics in the 21st Century__. An excellent overview of the state of statistical research at the end of the 20th century. Icluding excellent topic overviews, and open research questions. 
+25. Raftery, Adrian E., Martin T. Wells, and Martin A. Tanner. __Statistics in the 21st Century__. An excellent overview of the state of statistical research at the end of the 20th century. Including excellent topic overviews, and open research questions. 
+
+26. Peter Godfrey-Smith. __Theory and reality__. An excellent introduction to the philosophy of science. 
 
 Feel free to use this list, and recommend more entries.
 
