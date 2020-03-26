@@ -52,7 +52,7 @@ I like to publish my class notes. Here are the notes of some courses I give. The
 - [R](http://www.john-ros.com/Rcourse/). A graduate course for learning how to analyze data with R. Hebrew videos now online!
     - [History and Basics](https://testblue.bgu.ac.il/playback/presentation/2.0/playback.html?meetingId=216cee520eef48a479ec8a39b15d360fa09a5c9b-1584003608377).
     - [Basics continued](https://zoom.us/rec/share/2-1fMpzp-E1IU4nk5EXyXPF5Gtj8T6a81nRL-KELxU53yd_aMopZzIR8bz6YuFPm).
-    - data.table.
+    - [data.table](https://zoom.us/rec/share/zuh8Fr3Z6yBJe7PX-RHmY4N8R4rUeaa80XVI__MJzRoMZC8E3E8ugCrVLm-t4HkR).
     - Exploratory Statistics.
     - Linear Models.
     - Generalized Linear Models.
