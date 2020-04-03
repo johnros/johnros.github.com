@@ -54,7 +54,7 @@ I like to publish my class notes. Here are the notes of some courses I give. The
     - [Basics continued](https://zoom.us/rec/share/2-1fMpzp-E1IU4nk5EXyXPF5Gtj8T6a81nRL-KELxU53yd_aMopZzIR8bz6YuFPm).
     - [data.table](https://zoom.us/rec/play/vpwkc-Cu_T83GIfDtASDBvN_W9W5e6ys1SQZ_qULzh68UHBXNleiNbRGMOfd5Wf0m-bADMIkFgJIeAuH).
     - [Exploratory Statistics](https://zoom.us/rec/play/6JwrJrj5p2o3GtzAswSDU6cqW9XoeKKshidI8_Reyki9BiVQNlqgb-NBa-MezXQacgRb5ouut3vJx4Tw).
-    - Linear Models.
+    - [Linear Models](https://zoom.us/rec/share/-pFLDbv-73JIZ7PAtxvuQJAjDKDXaaa81ycZ-fFYzh1TxxiU1bVOi2Ik8n1u_Uah).
     - Generalized Linear Models.
     - Linear Mixed Models.
     - Multivariate Statistics.
