@@ -31,11 +31,12 @@ The economic orientation adds very useful applied motivation, and an emphasis on
 8. Grimmett, Geoffrey R., and David R. Stirzaker. __Probability and Random Processes__. 
 An excellent introductory textbook to probability and stochastic processes.
 
-9. Guttorp, Peter, and Vladimir N. Minin. __Stochastic modeling of scientific data__. 
+9. Guttorp, Peter, and Vladimir N. Minin. __Stochastic Modeling of Scientific Data__. 
 Excellent reference on modeling strategies and stochastic processes. 
 
-9. Cover, T. M., and Joy A. Thomas. __Elements of Information Theory__. 
+9. Robert M. Gray. __Entropy and Information Theory__.
 As the name suggests, your one stop shop for information theory.
+I like it better than Cover's book. 
 
 10. Wilcox, Rand R. __Introduction to Robust Estimation and Hypothesis Testing__. 
 A very well written exposition of the vast world of robust statistics. 
@@ -43,35 +44,46 @@ A must read with whoever works with actual data, and not only theory.
 
 11. Robert E. Weiss. __Modelling Longitudinal Data__. My favorite reference on the topic. 
 
-12. James E. Gentle. __Numerical Linear Algebra for Applications in Statistics__. Because we may write $$A^{-1}b=x$$, but a computer would never invert a matrix to solve this problem. 
-
 13. Venables, W.N. and Ripley, B.D. __Modern Applied Statistics with S__. Everything you need to actually analyze data in R. 
 
-14. Rasmussen, C.E and Williams C.K.I. __Gaussian Processes for Machine Learning__. The first time I felt I understand RKHS.
+14. Rasmussen, C.E and Williams C.K.I. __Gaussian Processes for Machine Learning__. 
+The first time I felt I understand RKHS.
 
-15. Bai, Z., and Silverstein, J.W. __Spectral Analysis of Large Dimensional Random Matrices__. For random matrix theory.
+15. Bai, Z., and Silverstein, J.W. __Spectral Analysis of Large Dimensional Random Matrices__. 
+For random matrix theory.
 
-16. Allard, D. and Chilès, J.P. and Delfiner P. __Geostatistics: Modeling Spatial Uncertainty__. As the name suggests.
+16. Allard, D. and Chilès, J.P. and Delfiner P. __Geostatistics: Modeling Spatial Uncertainty__. 
+As the name suggests.
 
-17. Weihs, C. and Mersmann, O. and Ligges, U. __Foundations of Statistical Algorithms: With References to R Packages__. Another excellent reference on numerical analysis and algorithms.
-
-18. Nahmias, S. and Cheng, Y. __Production and operations analysis__. One-stop-shop for industrial statistics and industrial engineering.
-
-19. Cano, E.L. and Moguerza, J.M. and Redchuk, A. __Six sigma with R: statistical engineering for process improvement__. For statistical process control.
-
-20. Cox, D.R. and Reid, N. __The theory of the design of experiments__. For DOE.
-
-21. Anderson, T.W. __An introduction to multivariate statistical analysis__.
-
-22. __The Princeton Companion to Applied Mathematics__. For short, readable, and authoritative explanations of EVERYTHING in applied mathematics. 
-
-23. Bryant, R.E., and O'Hallaron D.R. __Computer Systems: A Programmer’s Perspective__. If you want to know how a computer works, for the purpose of programming (not maintaining it). 
+17. Kenneth Lange. __Numerical analysis for statisticians__. 
+An excellent reference on numerical analysis and algorithms.
 
 24. Solomon, Justin. __Numerical algorithms: methods for computer vision, machine learning, and graphics__. A complete, and well written exposition of many numerical algorithms. 
 
+
+18. Nahmias, S. and Cheng, Y. __Production and Operations Analysis__. 
+One-stop-shop for industrial statistics and industrial engineering.
+
+19. Cano, E.L. and Moguerza, J.M. and Redchuk, A. __Six sigma with R: statistical engineering for process improvement__. For 
+statistical process control.
+
+20. Cox, D.R. and Reid, N. __The Theory of the Design of Experiments__. For DOE.
+
+21. Anderson, T.W. __An Introduction to Multivariate Statistical Analysis__.
+
+22. __The Princeton Companion to Applied Mathematics__. For short, readable, and authoritative explanations of EVERYTHING in applied mathematics. 
+
+23. Bryant, R.E., and O'Hallaron D.R. __Computer Systems: A Programmer’s Perspective__. 
+If you want to know how a computer works, for the purpose of programming (not maintaining it). 
+
+24. Brian Ward. __How Linux Works: 2n Edition__.
+An SUPERB reference on Linux, networking, and how computers work. 
+Superb, superb, superb. 
+
+
 25. Raftery, Adrian E., Martin T. Wells, and Martin A. Tanner. __Statistics in the 21st Century__. An excellent overview of the state of statistical research at the end of the 20th century. Including excellent topic overviews, and open research questions. 
 
-26. Peter Godfrey-Smith. __Theory and reality__. An excellent introduction to the philosophy of science. 
+26. Peter Godfrey-Smith. __Theory and Reality__. An excellent introduction to the philosophy of science. 
 
 Feel free to use this list, and recommend more entries.
 
