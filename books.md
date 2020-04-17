@@ -77,7 +77,7 @@ statistical process control.
 If you want to know how a computer works, for the purpose of programming (not maintaining it). 
 
 24. Brian Ward. __How Linux Works: 2n Edition__.
-An SUPERB reference on Linux, networking, and how computers work. 
+A SUPERB reference on Linux, networking, and how computers work. 
 Superb, superb, superb. 
 
 
