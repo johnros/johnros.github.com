@@ -1,5 +1,5 @@
 ---
-title: 'MultiNav: navigating multivariate data'
+title: 'MultiNav: Navigating Multivariate Data'
 description: ''
 layout: post
 tags:
@@ -14,11 +14,13 @@ Many statistical and BI software suits (e.g. Tableau, PowerBI) can do SPC, a.k.a
 Almost all of these, however, focus on univariate processes, which are easier to visualize and discuss than multivariate processes.
 The purpose of our _Multinav_ package is thus to ingest multivariate data streams, compute multivariate summaries, and allow us to query the data interactively when an anomaly is detected. 
 
-Let me demonstrate:
-
+In the next example we look into an agricultural IoT use-case, and try to detect sensors with anomaouls readings. 
+The full details are available in [the official documentation](https://efratvil.github.io/MultiNav/Documentation/).
+We start by loading the data, then compute an anomaly score for each sensor, and then interactivaly investigate the source of the anomaly. 
 
 ```{r}
-rnorm(100)
+devtools::install_github("EfratVil/MultiNav")
+library(MultiNav)
 ```
 
 
