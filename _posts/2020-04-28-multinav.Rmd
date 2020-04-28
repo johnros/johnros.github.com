@@ -1,0 +1,27 @@
+---
+title: 'MultiNav: navigating multivariate data'
+description: ''
+layout: post
+tags:
+- general
+- r
+- statistics
+category: null
+---
+
+In statistical process control (SPC), one compares some statistic to its "in control" distribution. 
+Many statistical and BI software suits (e.g. Tableau, PowerBI) can do SPC, a.k.a. anomaly-detection.
+Almost all of these, however, focus on univariate processes, which are easier to visualize and discuss than multivariate processes.
+The purpose of our _Multinav_ package is thus to ingest multivariate data streams, compute multivariate summaries, and allow us to query the data interactively when an anomaly is detected. 
+
+Let me demonstrate:
+
+
+```{r}
+rnorm(100)
+```
+
+
+
+
+
