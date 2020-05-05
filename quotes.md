@@ -51,10 +51,14 @@ categories: [static_page]
 
 - The simple idea of splitting a sample into two and then developing the hypothesis on the basis of one part and testing it on the remainder may perhaps be said to be one of the most seriously neglected ideas in statistics.-- George A. Barnard
 
-- Any sample can come from any distribution-- Tukey and Trotter
+- Any sample can come from any distribution-- Tukey and Trotter.
 
 ## Programming
 
 - Premature optimization is the root of all evil -- Donald Knuth
+
+- Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it --  Kernighan’s law.
+
+
 
 And some more, excellent ones, on [Jon McAuliffe's](http://www.stat.berkeley.edu/~jon/) page. 
