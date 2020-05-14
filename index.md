@@ -58,7 +58,7 @@ I like to publish my class notes. Here are the notes of some courses I give. The
     - [Generalized Linear Models](https://zoom.us/rec/share/2s9Wdq_t8V1JQq_M7nPkBL4MEaDmX6a8gCIXqfYFyhmT22T5W8CO9__-3uEayMX2?startTime=1587631388000).
     - [Linear Mixed Models](https://zoom.us/rec/share/49Z2ca_cqWNIfc-Qwn7PZpF8F4PdT6a823QY-fIIyx49BOk2rSYoBgol1AaKyETe?startTime=1588234707000).
     - [Multivariate Statistics](https://zoom.us/rec/share/1MpXf_bfp0VLHKf00xvyfaseRt_YT6a8hnRL8_oJzkq50PSitxmTkVqxDYh_KA_3?startTime=1588840036000).
-    - Supervised Machine Learning.
+    - Supervised Machine Learning [Talk 1](https://zoom.us/rec/share/z_1NN5XBz0RLXpWQ-GXHfrZiBr3Oeaa80CEW-_IFmUsADKKI4fFc0fJmA-tuHOnM?startTime=1589444354000).
     - Unsupervised Machine Learning.
     - Plotting.
     - Writing Reports.
