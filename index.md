@@ -62,8 +62,8 @@ I like to publish my class notes. Here are the notes of some courses I give. The
     - Unsupervised Machine Learning.
     - Plotting.
     - Writing Reports.
-    - Sparse Linear Algebra.
-    - Memory Efficiency.
+    - [Sparse Linear Algebra](https://zoom.us/rec/share/tewpdLfgymVIR6OWr1n8eukDBZaiaaa81ykc-KcIyk7TVhY_IEyTf6xr8iEmwEvn?startTime=1591259324000).
+    - [Memory Efficiency](https://zoom.us/rec/share/tewpdLfgymVIR6OWr1n8eukDBZaiaaa81ykc-KcIyk7TVhY_IEyTf6xr8iEmwEvn?startTime=1591263702000).
     - Parallel Computing.
 - [Machine Learning and Data Mining](https://github.com/johnros/Intro2R).
 - [Dimesionality Reduction](https://github.com/johnros/dim_reduce): a one class intro to dimensionality reduction. 
