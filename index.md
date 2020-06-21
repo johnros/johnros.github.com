@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Lecturer (Assistant Professor) \\
+Senior Lecturer (Assistant Professor) \\
 [Dept. of Industrial Engineering and Management](http://in.bgu.ac.il/engn/iem/Pages/default.aspx), \\
 Ben Gurion University of the Negev, Israel.\\
 P.O. 653, Beer Sheva, 84105 \\
