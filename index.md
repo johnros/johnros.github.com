@@ -60,8 +60,8 @@ I like to publish my class notes. Here are the notes of some courses I give. The
     - [Multivariate Statistics](https://zoom.us/rec/share/1MpXf_bfp0VLHKf00xvyfaseRt_YT6a8hnRL8_oJzkq50PSitxmTkVqxDYh_KA_3?startTime=1588840036000).
     - Supervised Machine Learning [Lecture 1](https://zoom.us/rec/share/z_1NN5XBz0RLXpWQ-GXHfrZiBr3Oeaa80CEW-_IFmUsADKKI4fFc0fJmA-tuHOnM?startTime=1589444354000),[Lecture 2](https://zoom.us/rec/share/4cBpBamo32VJc4nH0WHba6MoGZjMT6a81yJLq_NezB21T2Ub0ZkneSZcbo0hFBIk?startTime=1590049935000).
     - Unsupervised Machine Learning: [Dimensionality Reduction](https://zoom.us/rec/share/u5R4Cq3f2lhLeIHHw1rOeIcADILjaaa8g3VI_6dcnx7XwVo0Fq_zy0jrAUzkFaN7?startTime=1591863753000), [Clustering](https://zoom.us/rec/share/zOpTJbCr7G5OcJXA2UziQLIzB7mieaa80CZI-KZfykaBB3_0FH_77Xt7YeknL9Uj?startTime=1592468154000).
-    - Plotting.
-    - Automated Reports: [knitr](https://zoom.us/rec/share/zOpTJbCr7G5OcJXA2UziQLIzB7mieaa80CZI-KZfykaBB3_0FH_77Xt7YeknL9Uj?startTime=1592475747000), Shiny.
+    - [Plotting](https://zoom.us/rec/share/ovx7Pfap_DpLAZ3M73DAWaAIF8ffT6a81HBP_PNcxEuSviLmiuYme-FFv5abzIBp?startTime=1593079850000).
+    - Automated Reports: [knitr](https://zoom.us/rec/share/zOpTJbCr7G5OcJXA2UziQLIzB7mieaa80CZI-KZfykaBB3_0FH_77Xt7YeknL9Uj?startTime=1592475747000), [Shiny](https://zoom.us/rec/share/ovx7Pfap_DpLAZ3M73DAWaAIF8ffT6a81HBP_PNcxEuSviLmiuYme-FFv5abzIBp?startTime=1593072978000).
     - [Sparse Linear Algebra](https://zoom.us/rec/share/tewpdLfgymVIR6OWr1n8eukDBZaiaaa81ykc-KcIyk7TVhY_IEyTf6xr8iEmwEvn?startTime=1591259324000).
     - [Memory Efficiency](https://zoom.us/rec/share/tewpdLfgymVIR6OWr1n8eukDBZaiaaa81ykc-KcIyk7TVhY_IEyTf6xr8iEmwEvn?startTime=1591263702000).
     - Parallel Computing.
