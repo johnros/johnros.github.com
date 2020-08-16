@@ -7,7 +7,7 @@ tags:  [statistics, machine-learning]
 ---
 
 Environmental monitoring from satellite imagery essentially means that instead of directly measuring pollution (for instance), you predict it from satellite imagery.
-When an epidemiologist controls for ambient temperature, you can be pretty sure that such an indirect measurement of pollution is involved. 
+When an epidemiologist controls for ambient temperature, you can be pretty sure that such an indirect measurement of temperature is involved. 
 
 Predicting pollution is typically addressed as a supervised learning problem: use the pollution measured in ground stations as labels, and predict it wherever ground stations are not available. 
 But what if some pollution monitoring stations are far away from the residences of the subjects involved in the epidemiological study? Would we not want to down-weight those stations in the learning?
