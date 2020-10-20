@@ -50,7 +50,7 @@ I like to publish my class notes. Here are the notes of some courses I give. The
 
 - [Quality Engineering](https://github.com/johnros/qualityEngineering/blob/master/Class_notes/notes.pdf), a.k.a. Industrial Statistics.
 - [R](http://www.john-ros.com/Rcourse/). A graduate course for learning how to analyze data with R. Hebrew videos now online!
-    - [History and Basics](https://testblue.bgu.ac.il/playback/presentation/2.0/playback.html?meetingId=216cee520eef48a479ec8a39b15d360fa09a5c9b-1584003608377).
+    - History and Basics. [Hebrew](https://testblue.bgu.ac.il/playback/presentation/2.0/playback.html?meetingId=216cee520eef48a479ec8a39b15d360fa09a5c9b-1584003608377) [English](https://us02web.zoom.us/rec/share/q2Sa299tz0ipK3zFAjHTJiN-9sBd82ecE6_n9YOQx0C33HX1eoaQ4gZI8__AQMeL.gDOscQ5CT8q_bO6i?startTime=1603191568000).
     - [Basics continued](https://zoom.us/rec/share/2-1fMpzp-E1IU4nk5EXyXPF5Gtj8T6a81nRL-KELxU53yd_aMopZzIR8bz6YuFPm).
     - [data.table](https://zoom.us/rec/play/vpwkc-Cu_T83GIfDtASDBvN_W9W5e6ys1SQZ_qULzh68UHBXNleiNbRGMOfd5Wf0m-bADMIkFgJIeAuH).
     - [Exploratory Statistics](https://zoom.us/rec/play/6JwrJrj5p2o3GtzAswSDU6cqW9XoeKKshidI8_Reyki9BiVQNlqgb-NBa-MezXQacgRb5ouut3vJx4Tw).
