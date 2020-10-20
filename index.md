@@ -50,20 +50,26 @@ I like to publish my class notes. Here are the notes of some courses I give. The
 
 - [Quality Engineering](https://github.com/johnros/qualityEngineering/blob/master/Class_notes/notes.pdf), a.k.a. Industrial Statistics.
 - [R](http://www.john-ros.com/Rcourse/). A graduate course for learning how to analyze data with R. Hebrew videos now online!
-    - History and Basics. [Hebrew](https://testblue.bgu.ac.il/playback/presentation/2.0/playback.html?meetingId=216cee520eef48a479ec8a39b15d360fa09a5c9b-1584003608377) [English](https://us02web.zoom.us/rec/share/q2Sa299tz0ipK3zFAjHTJiN-9sBd82ecE6_n9YOQx0C33HX1eoaQ4gZI8__AQMeL.gDOscQ5CT8q_bO6i?startTime=1603191568000).
-    - [Basics continued](https://zoom.us/rec/share/2-1fMpzp-E1IU4nk5EXyXPF5Gtj8T6a81nRL-KELxU53yd_aMopZzIR8bz6YuFPm).
-    - [data.table](https://zoom.us/rec/play/vpwkc-Cu_T83GIfDtASDBvN_W9W5e6ys1SQZ_qULzh68UHBXNleiNbRGMOfd5Wf0m-bADMIkFgJIeAuH).
-    - [Exploratory Statistics](https://zoom.us/rec/play/6JwrJrj5p2o3GtzAswSDU6cqW9XoeKKshidI8_Reyki9BiVQNlqgb-NBa-MezXQacgRb5ouut3vJx4Tw).
-    - [Linear Models](https://zoom.us/rec/share/-pFLDbv-73JIZ7PAtxvuQJAjDKDXaaa81ycZ-fFYzh1TxxiU1bVOi2Ik8n1u_Uah).
-    - [Generalized Linear Models](https://zoom.us/rec/share/2s9Wdq_t8V1JQq_M7nPkBL4MEaDmX6a8gCIXqfYFyhmT22T5W8CO9__-3uEayMX2?startTime=1587631388000).
-    - [Linear Mixed Models](https://zoom.us/rec/share/49Z2ca_cqWNIfc-Qwn7PZpF8F4PdT6a823QY-fIIyx49BOk2rSYoBgol1AaKyETe?startTime=1588234707000).
-    - [Multivariate Statistics](https://zoom.us/rec/share/1MpXf_bfp0VLHKf00xvyfaseRt_YT6a8hnRL8_oJzkq50PSitxmTkVqxDYh_KA_3?startTime=1588840036000).
-    - Supervised Machine Learning [Lecture 1](https://zoom.us/rec/share/z_1NN5XBz0RLXpWQ-GXHfrZiBr3Oeaa80CEW-_IFmUsADKKI4fFc0fJmA-tuHOnM?startTime=1589444354000),[Lecture 2](https://zoom.us/rec/share/4cBpBamo32VJc4nH0WHba6MoGZjMT6a81yJLq_NezB21T2Ub0ZkneSZcbo0hFBIk?startTime=1590049935000).
-    - Unsupervised Machine Learning: [Dimensionality Reduction](https://zoom.us/rec/share/u5R4Cq3f2lhLeIHHw1rOeIcADILjaaa8g3VI_6dcnx7XwVo0Fq_zy0jrAUzkFaN7?startTime=1591863753000), [Clustering](https://zoom.us/rec/share/zOpTJbCr7G5OcJXA2UziQLIzB7mieaa80CZI-KZfykaBB3_0FH_77Xt7YeknL9Uj?startTime=1592468154000).
-    - [Plotting](https://zoom.us/rec/share/ovx7Pfap_DpLAZ3M73DAWaAIF8ffT6a81HBP_PNcxEuSviLmiuYme-FFv5abzIBp?startTime=1593079850000).
-    - Automated Reports: [knitr](https://zoom.us/rec/share/zOpTJbCr7G5OcJXA2UziQLIzB7mieaa80CZI-KZfykaBB3_0FH_77Xt7YeknL9Uj?startTime=1592475747000), [Shiny](https://zoom.us/rec/share/ovx7Pfap_DpLAZ3M73DAWaAIF8ffT6a81HBP_PNcxEuSviLmiuYme-FFv5abzIBp?startTime=1593072978000).
-    - [Sparse Linear Algebra](https://zoom.us/rec/share/tewpdLfgymVIR6OWr1n8eukDBZaiaaa81ykc-KcIyk7TVhY_IEyTf6xr8iEmwEvn?startTime=1591259324000).
-    - [Memory Efficiency](https://zoom.us/rec/share/tewpdLfgymVIR6OWr1n8eukDBZaiaaa81ykc-KcIyk7TVhY_IEyTf6xr8iEmwEvn?startTime=1591263702000).
+    - History and Basics: [Hebrew](https://testblue.bgu.ac.il/playback/presentation/2.0/playback.html?meetingId=216cee520eef48a479ec8a39b15d360fa09a5c9b-1584003608377), [English](https://us02web.zoom.us/rec/share/q2Sa299tz0ipK3zFAjHTJiN-9sBd82ecE6_n9YOQx0C33HX1eoaQ4gZI8__AQMeL.gDOscQ5CT8q_bO6i?startTime=1603191568000).
+    - Basics continued: [Hebrew](https://zoom.us/rec/share/2-1fMpzp-E1IU4nk5EXyXPF5Gtj8T6a81nRL-KELxU53yd_aMopZzIR8bz6YuFPm).
+    - data.table: [Hebrew](https://zoom.us/rec/play/vpwkc-Cu_T83GIfDtASDBvN_W9W5e6ys1SQZ_qULzh68UHBXNleiNbRGMOfd5Wf0m-bADMIkFgJIeAuH).
+    - Exploratory Statistics: [Hebrew](https://zoom.us/rec/play/6JwrJrj5p2o3GtzAswSDU6cqW9XoeKKshidI8_Reyki9BiVQNlqgb-NBa-MezXQacgRb5ouut3vJx4Tw).
+    - Linear Models: [Hebrew](https://zoom.us/rec/share/-pFLDbv-73JIZ7PAtxvuQJAjDKDXaaa81ycZ-fFYzh1TxxiU1bVOi2Ik8n1u_Uah).
+    - Generalized Linear Models: [Hebrew](https://zoom.us/rec/share/2s9Wdq_t8V1JQq_M7nPkBL4MEaDmX6a8gCIXqfYFyhmT22T5W8CO9__-3uEayMX2?startTime=1587631388000).
+    - Linear Mixed Models: [Hebrew](https://zoom.us/rec/share/49Z2ca_cqWNIfc-Qwn7PZpF8F4PdT6a823QY-fIIyx49BOk2rSYoBgol1AaKyETe?startTime=1588234707000).
+    - Multivariate Statistics: [Hebrew](https://zoom.us/rec/share/1MpXf_bfp0VLHKf00xvyfaseRt_YT6a8hnRL8_oJzkq50PSitxmTkVqxDYh_KA_3?startTime=1588840036000).
+    - Supervised Machine Learning.
+        - Lecture 1: [Hebrew](https://zoom.us/rec/share/z_1NN5XBz0RLXpWQ-GXHfrZiBr3Oeaa80CEW-_IFmUsADKKI4fFc0fJmA-tuHOnM?startTime=1589444354000).
+        - Lecture 2: [Hebrew](https://zoom.us/rec/share/4cBpBamo32VJc4nH0WHba6MoGZjMT6a81yJLq_NezB21T2Ub0ZkneSZcbo0hFBIk?startTime=1590049935000).
+    - Unsupervised Machine Learning:
+        - Dimensionality Reduction: [Hebrew](https://zoom.us/rec/share/u5R4Cq3f2lhLeIHHw1rOeIcADILjaaa8g3VI_6dcnx7XwVo0Fq_zy0jrAUzkFaN7?startTime=1591863753000).
+        - Clustering: [Hebrew](https://zoom.us/rec/share/zOpTJbCr7G5OcJXA2UziQLIzB7mieaa80CZI-KZfykaBB3_0FH_77Xt7YeknL9Uj?startTime=1592468154000).
+    - Plotting: [Hebrew](https://zoom.us/rec/share/ovx7Pfap_DpLAZ3M73DAWaAIF8ffT6a81HBP_PNcxEuSviLmiuYme-FFv5abzIBp?startTime=1593079850000).
+    - Automated Reports:
+        - knitr: [Hebrew](https://zoom.us/rec/share/zOpTJbCr7G5OcJXA2UziQLIzB7mieaa80CZI-KZfykaBB3_0FH_77Xt7YeknL9Uj?startTime=1592475747000). 
+        - Shiny: [Hebrew](https://zoom.us/rec/share/ovx7Pfap_DpLAZ3M73DAWaAIF8ffT6a81HBP_PNcxEuSviLmiuYme-FFv5abzIBp?startTime=1593072978000).
+    - Sparse Linear Algebra: [Hebrew](https://zoom.us/rec/share/tewpdLfgymVIR6OWr1n8eukDBZaiaaa81ykc-KcIyk7TVhY_IEyTf6xr8iEmwEvn?startTime=1591259324000).
+    - Memory Efficiency: [Hebrew](https://zoom.us/rec/share/tewpdLfgymVIR6OWr1n8eukDBZaiaaa81ykc-KcIyk7TVhY_IEyTf6xr8iEmwEvn?startTime=1591263702000).
     - Parallel Computing.
 - [Machine Learning and Data Mining](https://github.com/johnros/Intro2R).
 - [Dimesionality Reduction](https://github.com/johnros/dim_reduce): a one class intro to dimensionality reduction. 
