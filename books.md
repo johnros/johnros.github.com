@@ -21,6 +21,8 @@ This book can serve both as an introduction, and as a technical reference for th
 4. Hastie, T, R Tibshirani, and JH Friedman. __The Elements of Statistical Learning__. 
 A one stop shop for machine learning, cast in statistical terminology.
 
+4. Hodges, J.S. __Richly parameterized linear models: additive, time series, and spatial models using random effects__. Linking random-effects, Bayesian statistics, geo-statistics, and time-series. I wish someone had told me of this book sooner!
+
 5. Tsybakov, A. B. __Introduction to Nonparametric Estimation__. 
 My favorite reference on non parametric statistics.
 
