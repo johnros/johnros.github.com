@@ -53,8 +53,12 @@ I like to publish my class notes. Here are the notes of some courses I give. The
     - History and Basics: [Hebrew](https://testblue.bgu.ac.il/playback/presentation/2.0/playback.html?meetingId=216cee520eef48a479ec8a39b15d360fa09a5c9b-1584003608377), [English](https://us02web.zoom.us/rec/share/q2Sa299tz0ipK3zFAjHTJiN-9sBd82ecE6_n9YOQx0C33HX1eoaQ4gZI8__AQMeL.gDOscQ5CT8q_bO6i?startTime=1603191568000).
     - Basics continued: [Hebrew](https://zoom.us/rec/share/2-1fMpzp-E1IU4nk5EXyXPF5Gtj8T6a81nRL-KELxU53yd_aMopZzIR8bz6YuFPm),[English](https://us02web.zoom.us/rec/share/vQOr33H8NdVkmkLL5LTOViD1jmwcknQOMtRoExycyKjdwl7pWuDY3J0uy2pcOt-O.gYrt5N5ialir58up?startTime=1603800178000).
     - data.table: [Hebrew](https://zoom.us/rec/play/vpwkc-Cu_T83GIfDtASDBvN_W9W5e6ys1SQZ_qULzh68UHBXNleiNbRGMOfd5Wf0m-bADMIkFgJIeAuH). [English](https://us02web.zoom.us/rec/share/a_2C6pwnkvFRKULZ-YeSlNJc8E6UwCTG0VlAn0bmOXyFJ5Q251nfnR2F6bYhe191.p22TcQTs913do63Z?startTime=1604405079000).
-    - Exploratory Statistics: [Hebrew](https://zoom.us/rec/play/6JwrJrj5p2o3GtzAswSDU6cqW9XoeKKshidI8_Reyki9BiVQNlqgb-NBa-MezXQacgRb5ouut3vJx4Tw), [English1](https://us02web.zoom.us/rec/share/a_2C6pwnkvFRKULZ-YeSlNJc8E6UwCTG0VlAn0bmOXyFJ5Q251nfnR2F6bYhe191.p22TcQTs913do63Z?startTime=1604412483000).
-    - Linear Models: [Hebrew](https://zoom.us/rec/share/-pFLDbv-73JIZ7PAtxvuQJAjDKDXaaa81ycZ-fFYzh1TxxiU1bVOi2Ik8n1u_Uah).
+    - Exploratory Statistics: [Hebrew](https://zoom.us/rec/play/6JwrJrj5p2o3GtzAswSDU6cqW9XoeKKshidI8_Reyki9BiVQNlqgb-NBa-MezXQacgRb5ouut3vJx4Tw),
+    [English1](https://us02web.zoom.us/rec/share/a_2C6pwnkvFRKULZ-YeSlNJc8E6UwCTG0VlAn0bmOXyFJ5Q251nfnR2F6bYhe191.p22TcQTs913do63Z?startTime=1604412483000),
+    [English2](https://us02web.zoom.us/rec/share/8PtWtOh8Ib96bkbAlxwjUH3HOCogpb8-bK87IwmxHovvGlp91MuUYzFFwi92kxkv.AEOzbD-dn7Dc5rGI?startTime=1605009950000).
+    - Linear Models: 
+    [Hebrew](https://zoom.us/rec/share/-pFLDbv-73JIZ7PAtxvuQJAjDKDXaaa81ycZ-fFYzh1TxxiU1bVOi2Ik8n1u_Uah),
+    [English](https://us02web.zoom.us/rec/share/8PtWtOh8Ib96bkbAlxwjUH3HOCogpb8-bK87IwmxHovvGlp91MuUYzFFwi92kxkv.AEOzbD-dn7Dc5rGI?startTime=1605012404000).
     - Generalized Linear Models: [Hebrew](https://zoom.us/rec/share/2s9Wdq_t8V1JQq_M7nPkBL4MEaDmX6a8gCIXqfYFyhmT22T5W8CO9__-3uEayMX2?startTime=1587631388000).
     - Linear Mixed Models: [Hebrew](https://zoom.us/rec/share/49Z2ca_cqWNIfc-Qwn7PZpF8F4PdT6a823QY-fIIyx49BOk2rSYoBgol1AaKyETe?startTime=1588234707000).
     - Multivariate Statistics: [Hebrew](https://zoom.us/rec/share/1MpXf_bfp0VLHKf00xvyfaseRt_YT6a8hnRL8_oJzkq50PSitxmTkVqxDYh_KA_3?startTime=1588840036000).
