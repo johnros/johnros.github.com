@@ -59,8 +59,10 @@ I like to publish my class notes. Here are the notes of some courses I give. The
     - Linear Models: 
     [Hebrew](https://zoom.us/rec/share/-pFLDbv-73JIZ7PAtxvuQJAjDKDXaaa81ycZ-fFYzh1TxxiU1bVOi2Ik8n1u_Uah),
     [English](https://us02web.zoom.us/rec/share/8PtWtOh8Ib96bkbAlxwjUH3HOCogpb8-bK87IwmxHovvGlp91MuUYzFFwi92kxkv.AEOzbD-dn7Dc5rGI?startTime=1605012404000).
-    - Generalized Linear Models: [Hebrew](https://zoom.us/rec/share/2s9Wdq_t8V1JQq_M7nPkBL4MEaDmX6a8gCIXqfYFyhmT22T5W8CO9__-3uEayMX2?startTime=1587631388000).
-    - Linear Mixed Models: [Hebrew](https://zoom.us/rec/share/49Z2ca_cqWNIfc-Qwn7PZpF8F4PdT6a823QY-fIIyx49BOk2rSYoBgol1AaKyETe?startTime=1588234707000).
+    - Generalized Linear Models: [Hebrew](https://zoom.us/rec/share/2s9Wdq_t8V1JQq_M7nPkBL4MEaDmX6a8gCIXqfYFyhmT22T5W8CO9__-3uEayMX2?startTime=1587631388000), 
+    [English](https://us02web.zoom.us/rec/share/Gy4nmfluJUI1RYaKJz6SZk4zPp3BKWVerWmZDoyGPUr_y2oQ647aJYZavd-m4lot.AtIUlACakJl__6ls?startTime=1605614717000).
+    - Linear Mixed Models: [Hebrew](https://zoom.us/rec/share/49Z2ca_cqWNIfc-Qwn7PZpF8F4PdT6a823QY-fIIyx49BOk2rSYoBgol1AaKyETe?startTime=1588234707000),
+    [Ensligh](https://us02web.zoom.us/rec/share/Gy4nmfluJUI1RYaKJz6SZk4zPp3BKWVerWmZDoyGPUr_y2oQ647aJYZavd-m4lot.AtIUlACakJl__6ls?startTime=1605620311000).
     - Multivariate Statistics: [Hebrew](https://zoom.us/rec/share/1MpXf_bfp0VLHKf00xvyfaseRt_YT6a8hnRL8_oJzkq50PSitxmTkVqxDYh_KA_3?startTime=1588840036000).
     - Supervised Machine Learning.
         - Lecture 1: [Hebrew](https://zoom.us/rec/share/z_1NN5XBz0RLXpWQ-GXHfrZiBr3Oeaa80CEW-_IFmUsADKKI4fFc0fJmA-tuHOnM?startTime=1589444354000).
