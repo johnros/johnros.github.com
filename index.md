@@ -65,7 +65,7 @@ I like to publish my class notes. Here are the notes of some courses I give. The
     [Ensligh](https://us02web.zoom.us/rec/share/Gy4nmfluJUI1RYaKJz6SZk4zPp3BKWVerWmZDoyGPUr_y2oQ647aJYZavd-m4lot.AtIUlACakJl__6ls?startTime=1605620311000).
     - Multivariate Statistics: [Hebrew](https://zoom.us/rec/share/1MpXf_bfp0VLHKf00xvyfaseRt_YT6a8hnRL8_oJzkq50PSitxmTkVqxDYh_KA_3?startTime=1588840036000), [English](https://us02web.zoom.us/rec/share/chXnIhQpOnzya0m54F2WpzTrfCnOaBZBrXi4vZfr8FqJQZB64Fcxzzmeo5l3zc8P.7apR-BJ5iVEvl0e8?startTime=1606219657000).
     - Supervised Machine Learning.
-        - Lecture 1: [Hebrew](https://zoom.us/rec/share/z_1NN5XBz0RLXpWQ-GXHfrZiBr3Oeaa80CEW-_IFmUsADKKI4fFc0fJmA-tuHOnM?startTime=1589444354000).
+        - Lecture 1: [Hebrew](https://zoom.us/rec/share/z_1NN5XBz0RLXpWQ-GXHfrZiBr3Oeaa80CEW-_IFmUsADKKI4fFc0fJmA-tuHOnM?startTime=1589444354000), [English](https://us02web.zoom.us/rec/share/vIKCSyAEvxKtcYSqQZrs1ewB6uSIo-4am3PE25EO--3u2Z_KSuz-0IZ8QHE1a_VI.N9bYYp2TWMs9Lq21?startTime=1606824271000).
         - Lecture 2: [Hebrew](https://zoom.us/rec/share/4cBpBamo32VJc4nH0WHba6MoGZjMT6a81yJLq_NezB21T2Ub0ZkneSZcbo0hFBIk?startTime=1590049935000).
     - Unsupervised Machine Learning:
         - Dimensionality Reduction: [Hebrew](https://zoom.us/rec/share/u5R4Cq3f2lhLeIHHw1rOeIcADILjaaa8g3VI_6dcnx7XwVo0Fq_zy0jrAUzkFaN7?startTime=1591863753000).
