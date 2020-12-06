@@ -82,7 +82,7 @@ I like to publish my class notes. Here are the notes of some courses I give. The
 
 ## Biosketch
 
-- Father (x2), beach-volleyball player, and data-hacker(*).  
+- Father (x3), beach-volleyball player, and data-hacker(*).  
 
 - Presently, a faculty member at the [Dept. of Industrial Engineering and Management](http://in.bgu.ac.il/engn/iem/Pages/default.aspx) at the Ben Gurion University of the Negev, and also:
     - Member of the [Zlotowski Center for Neuroscience](http://in.bgu.ac.il/en/zlotowski/Pages/default.aspx).
