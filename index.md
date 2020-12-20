@@ -68,7 +68,7 @@ I like to publish my class notes. Here are the notes of some courses I give. The
         - Lecture 1: [Hebrew](https://zoom.us/rec/share/z_1NN5XBz0RLXpWQ-GXHfrZiBr3Oeaa80CEW-_IFmUsADKKI4fFc0fJmA-tuHOnM?startTime=1589444354000), [English](https://us02web.zoom.us/rec/share/vIKCSyAEvxKtcYSqQZrs1ewB6uSIo-4am3PE25EO--3u2Z_KSuz-0IZ8QHE1a_VI.N9bYYp2TWMs9Lq21?startTime=1606824271000).
         - Lecture 2: [Hebrew](https://zoom.us/rec/share/4cBpBamo32VJc4nH0WHba6MoGZjMT6a81yJLq_NezB21T2Ub0ZkneSZcbo0hFBIk?startTime=1590049935000).
     - Unsupervised Machine Learning:
-        - Dimensionality Reduction: [Hebrew](https://zoom.us/rec/share/u5R4Cq3f2lhLeIHHw1rOeIcADILjaaa8g3VI_6dcnx7XwVo0Fq_zy0jrAUzkFaN7?startTime=1591863753000).
+        - Dimensionality Reduction: [Hebrew](https://zoom.us/rec/share/u5R4Cq3f2lhLeIHHw1rOeIcADILjaaa8g3VI_6dcnx7XwVo0Fq_zy0jrAUzkFaN7?startTime=1591863753000), [English](https://us02web.zoom.us/rec/share/dgy7nAIos4CVQpSLN7FNBY15I6ZYhbDKvM911qrUljeJkZV4WumYS5G7Xsl0fm9d.msrDh3r-WW4glQ_b?startTime=1608034716000).
         - Clustering: [Hebrew](https://zoom.us/rec/share/zOpTJbCr7G5OcJXA2UziQLIzB7mieaa80CZI-KZfykaBB3_0FH_77Xt7YeknL9Uj?startTime=1592468154000).
     - Plotting: [Hebrew](https://zoom.us/rec/share/ovx7Pfap_DpLAZ3M73DAWaAIF8ffT6a81HBP_PNcxEuSviLmiuYme-FFv5abzIBp?startTime=1593079850000).
     - Automated Reports:
