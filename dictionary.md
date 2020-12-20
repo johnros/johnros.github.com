@@ -5,11 +5,13 @@ permalink: /translator/
 categories: [static_page]
 ---
 
+__It has been a while since I last maintained this page. Use at your own peril.__
+
 Here is a machine learning to statistics translator I try to maintain. 
 Most concepts are not really identical, so "translations" should be considered approximate.
 Based on the same idea in "_All Of Statistics_" by Larry Wasserman [p.15].
 Many thanks to [Ohad Shamir](http://www.wisdom.weizmann.ac.il/~shamiro/), and [Saharon Rosset](http://www.tau.ac.il/~saharon/) for helping populate the table. 
-Despite my best efforts, it proably still contains errors. Drop me a note if you find any.
+Despite my best efforts, it probably still contains errors. Drop me a note if you find any.
 
 
 
@@ -25,7 +27,7 @@ Despite my best efforts, it proably still contains errors. Drop me a note if you
 |                 |piecewise constant function|decision list|     
 |                 |Bayes net          |directed acyclic graph (of conditional probabilities)|
 |                 |latent variable model|model based collaborative filtering|
-|                 |beighbourhood methods|memory based collaborative filtering|
+|                 |neighborhood methods|memory based collaborative filtering|
 |                 |multivariate distribution|graphical model|         
 |                 |--                 |Boolean circuit    |           
 |                 |--                 |kCNF               |           
@@ -65,7 +67,7 @@ Despite my best efforts, it proably still contains errors. Drop me a note if you
 |                 |quantile matching        |--                         |           
 |                 |U-estimation, V-estimation|generative unsupervised RKHS learning|
 |                 |K-estimation             |--                         |           
-|                 |Fisher's LDA (assuming independence)|Gaussian naive bayes|       
+|                 |Fisher's LDA (assuming independence)|Gaussian naive Bayes|       
 |interval methods |confidence intervals     |PAC learnable              |           
 |                 |credible interval        |PAC Bayes learnable        |           
 |                 |fiducial interval        |--                         |           
