@@ -69,8 +69,8 @@ I like to publish my class notes. Here are the notes of some courses I give. The
         - Lecture 2: [Hebrew](https://zoom.us/rec/share/4cBpBamo32VJc4nH0WHba6MoGZjMT6a81yJLq_NezB21T2Ub0ZkneSZcbo0hFBIk?startTime=1590049935000).
     - Unsupervised Machine Learning:
         - Dimensionality Reduction: [Hebrew](https://zoom.us/rec/share/u5R4Cq3f2lhLeIHHw1rOeIcADILjaaa8g3VI_6dcnx7XwVo0Fq_zy0jrAUzkFaN7?startTime=1591863753000), [English](https://us02web.zoom.us/rec/share/dgy7nAIos4CVQpSLN7FNBY15I6ZYhbDKvM911qrUljeJkZV4WumYS5G7Xsl0fm9d.msrDh3r-WW4glQ_b?startTime=1608034716000).
-        - Clustering: [Hebrew](https://zoom.us/rec/share/zOpTJbCr7G5OcJXA2UziQLIzB7mieaa80CZI-KZfykaBB3_0FH_77Xt7YeknL9Uj?startTime=1592468154000).
-    - Plotting: [Hebrew](https://zoom.us/rec/share/ovx7Pfap_DpLAZ3M73DAWaAIF8ffT6a81HBP_PNcxEuSviLmiuYme-FFv5abzIBp?startTime=1593079850000).
+        - Clustering: [Hebrew](https://zoom.us/rec/share/zOpTJbCr7G5OcJXA2UziQLIzB7mieaa80CZI-KZfykaBB3_0FH_77Xt7YeknL9Uj?startTime=1592468154000). [English](https://us02web.zoom.us/rec/share/lgTLi5a7loHUgtQ3m5dEjKrhUudKuMsocdt5winFdZ8bi1MZwy_zXgKJZ44sl8po.Z_PDmJqRBiGwrzq2?startTime=1608639774000).
+    - Plotting: [Hebrew](https://zoom.us/rec/share/ovx7Pfap_DpLAZ3M73DAWaAIF8ffT6a81HBP_PNcxEuSviLmiuYme-FFv5abzIBp?startTime=1593079850000), [English](https://us02web.zoom.us/rec/share/lgTLi5a7loHUgtQ3m5dEjKrhUudKuMsocdt5winFdZ8bi1MZwy_zXgKJZ44sl8po.Z_PDmJqRBiGwrzq2?startTime=1608644817000).
     - Automated Reports:
         - knitr: [Hebrew](https://zoom.us/rec/share/zOpTJbCr7G5OcJXA2UziQLIzB7mieaa80CZI-KZfykaBB3_0FH_77Xt7YeknL9Uj?startTime=1592475747000). 
         - Shiny: [Hebrew](https://zoom.us/rec/share/ovx7Pfap_DpLAZ3M73DAWaAIF8ffT6a81HBP_PNcxEuSviLmiuYme-FFv5abzIBp?startTime=1593072978000).
