@@ -72,10 +72,10 @@ I like to publish my class notes. Here are the notes of some courses I give. The
         - Clustering: [Hebrew](https://zoom.us/rec/share/zOpTJbCr7G5OcJXA2UziQLIzB7mieaa80CZI-KZfykaBB3_0FH_77Xt7YeknL9Uj?startTime=1592468154000). [English](https://us02web.zoom.us/rec/share/lgTLi5a7loHUgtQ3m5dEjKrhUudKuMsocdt5winFdZ8bi1MZwy_zXgKJZ44sl8po.Z_PDmJqRBiGwrzq2?startTime=1608639774000).
     - Plotting: [Hebrew](https://zoom.us/rec/share/ovx7Pfap_DpLAZ3M73DAWaAIF8ffT6a81HBP_PNcxEuSviLmiuYme-FFv5abzIBp?startTime=1593079850000), [English](https://us02web.zoom.us/rec/share/lgTLi5a7loHUgtQ3m5dEjKrhUudKuMsocdt5winFdZ8bi1MZwy_zXgKJZ44sl8po.Z_PDmJqRBiGwrzq2?startTime=1608644817000).
     - Automated Reports:
-        - knitr: [Hebrew](https://zoom.us/rec/share/zOpTJbCr7G5OcJXA2UziQLIzB7mieaa80CZI-KZfykaBB3_0FH_77Xt7YeknL9Uj?startTime=1592475747000). 
+        - knitr: [Hebrew](https://zoom.us/rec/share/zOpTJbCr7G5OcJXA2UziQLIzB7mieaa80CZI-KZfykaBB3_0FH_77Xt7YeknL9Uj?startTime=1592475747000), [English](https://us02web.zoom.us/rec/share/eN1vkSVyRXaGGUJOidG9TAxIt4ixyY5uj8fx3kJq5UO5_Kg4eaodmfoXH7Gl3cHX.1fDOrHK3kQby7n0_?startTime=1609245911000). 
         - Shiny: [Hebrew](https://zoom.us/rec/share/ovx7Pfap_DpLAZ3M73DAWaAIF8ffT6a81HBP_PNcxEuSviLmiuYme-FFv5abzIBp?startTime=1593072978000).
-    - Sparse Linear Algebra: [Hebrew](https://zoom.us/rec/share/tewpdLfgymVIR6OWr1n8eukDBZaiaaa81ykc-KcIyk7TVhY_IEyTf6xr8iEmwEvn?startTime=1591259324000).
-    - Memory Efficiency: [Hebrew](https://zoom.us/rec/share/tewpdLfgymVIR6OWr1n8eukDBZaiaaa81ykc-KcIyk7TVhY_IEyTf6xr8iEmwEvn?startTime=1591263702000).
+    - Sparse Linear Algebra: [Hebrew](https://zoom.us/rec/share/tewpdLfgymVIR6OWr1n8eukDBZaiaaa81ykc-KcIyk7TVhY_IEyTf6xr8iEmwEvn?startTime=1591259324000), [Ensligh1](https://us02web.zoom.us/rec/share/eN1vkSVyRXaGGUJOidG9TAxIt4ixyY5uj8fx3kJq5UO5_Kg4eaodmfoXH7Gl3cHX.1fDOrHK3kQby7n0_?startTime=1609252146000), English2.
+    - Memory Efficiency: [Hebrew](https://zoom.us/rec/share/tewpdLfgymVIR6OWr1n8eukDBZaiaaa81ykc-KcIyk7TVhY_IEyTf6xr8iEmwEvn?startTime=1591263702000), English.
     - Parallel Computing.
 - [Machine Learning and Data Mining](https://github.com/johnros/Intro2R).
 - [Dimesionality Reduction](https://github.com/johnros/dim_reduce): a one class intro to dimensionality reduction. 
