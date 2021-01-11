@@ -87,6 +87,8 @@ Superb, superb, superb.
 
 26. Peter Godfrey-Smith. __Theory and Reality__. An excellent introduction to the philosophy of science. 
 
+27. Steven Smith. __Digital Signal Processing: A Practical Guide for Engineers and Scientists__. A comprehensive and application oriented presentation of DSP (turns out it is more than non-parametric regression with complex numbers!).
+
 Feel free to use this list, and recommend more entries.
 
 Some other book recommendations worth following:
