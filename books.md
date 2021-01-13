@@ -89,6 +89,10 @@ Superb, superb, superb.
 
 27. Steven Smith. __Digital Signal Processing: A Practical Guide for Engineers and Scientists__. A comprehensive and application oriented presentation of DSP (turns out it is more than non-parametric regression with complex numbers!).
 
+28. Peter J. Schreier and Louis L. Scharf. __Statistical Signal Processing of Complex-Valued Data: The Theory of Improper and Noncircular Signals__ .
+In the case you are wondering, like myself, "why are so many scientists obsessed with complex numbers?".
+
+
 Feel free to use this list, and recommend more entries.
 
 Some other book recommendations worth following:
