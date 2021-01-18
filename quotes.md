@@ -23,6 +23,9 @@ categories: [static_page]
 
 - The real voyage of discovery consists not in seeking new landscapes, but in having new eyes-- Marcel Proust 
 
+- Man is the most insane species. He worships an invisible God and destroys a visible Nature. Unaware that this Nature he’s destroying is this God he’s worshiping -- Hubert Reeves
+
+
 ## Work
 
 - If you want something done, ask a busy person to do it. The more things you do, the more you can do-- Ball, Lucille
