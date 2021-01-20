@@ -74,8 +74,8 @@ I like to publish my class notes. Here are the notes of some courses I give. The
     - Automated Reports:
         - knitr: [Hebrew](https://zoom.us/rec/share/zOpTJbCr7G5OcJXA2UziQLIzB7mieaa80CZI-KZfykaBB3_0FH_77Xt7YeknL9Uj?startTime=1592475747000), [English](https://us02web.zoom.us/rec/share/eN1vkSVyRXaGGUJOidG9TAxIt4ixyY5uj8fx3kJq5UO5_Kg4eaodmfoXH7Gl3cHX.1fDOrHK3kQby7n0_?startTime=1609245911000). 
         - Shiny: [Hebrew](https://zoom.us/rec/share/ovx7Pfap_DpLAZ3M73DAWaAIF8ffT6a81HBP_PNcxEuSviLmiuYme-FFv5abzIBp?startTime=1593072978000).
-    - Sparse Linear Algebra: [Hebrew](https://zoom.us/rec/share/tewpdLfgymVIR6OWr1n8eukDBZaiaaa81ykc-KcIyk7TVhY_IEyTf6xr8iEmwEvn?startTime=1591259324000), [Ensligh1](https://us02web.zoom.us/rec/share/eN1vkSVyRXaGGUJOidG9TAxIt4ixyY5uj8fx3kJq5UO5_Kg4eaodmfoXH7Gl3cHX.1fDOrHK3kQby7n0_?startTime=1609252146000), English2.
-    - Memory Efficiency: [Hebrew](https://zoom.us/rec/share/tewpdLfgymVIR6OWr1n8eukDBZaiaaa81ykc-KcIyk7TVhY_IEyTf6xr8iEmwEvn?startTime=1591263702000), English.
+    - Sparse Linear Algebra: [Hebrew](https://zoom.us/rec/share/tewpdLfgymVIR6OWr1n8eukDBZaiaaa81ykc-KcIyk7TVhY_IEyTf6xr8iEmwEvn?startTime=1591259324000), [Ensligh1](https://us02web.zoom.us/rec/share/eN1vkSVyRXaGGUJOidG9TAxIt4ixyY5uj8fx3kJq5UO5_Kg4eaodmfoXH7Gl3cHX.1fDOrHK3kQby7n0_?startTime=1609252146000), [English2](https://us02web.zoom.us/rec/play/fRf3WF1eHDc4gdpkkjPztG8fPwU0b2YHyHGvSsnmU8JPC51iTHdHRdq8vlwQIhQBVT2WZgOq20zQjM77.L7dpLzgKx7F-lnjX?autoplay=true&startTime=1609852286000).
+    - Memory Efficiency: [Hebrew](https://zoom.us/rec/share/tewpdLfgymVIR6OWr1n8eukDBZaiaaa81ykc-KcIyk7TVhY_IEyTf6xr8iEmwEvn?startTime=1591263702000), [English](https://us02web.zoom.us/rec/play/ZS6tJo6SwWvDjAM2mzLZKWt_ZYLZrTWy5278SMbK6T_F4zTz-gcTb5p47QvqAWU0Q0o2uwnYZQzOv_Z9.v8m1QsNazNpkQ7Hk?autoplay=true&startTime=1609853758000).
     - Parallel Computing.
 - [Machine Learning and Data Mining](https://github.com/johnros/Intro2R).
 - [Dimesionality Reduction](https://github.com/johnros/dim_reduce): a one class intro to dimensionality reduction. 
