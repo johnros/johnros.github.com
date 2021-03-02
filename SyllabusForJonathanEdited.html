@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Statistics Program</title>
+
+
+        <style type="text/css">
+            #mynetwork {
+              width: 1200px;
+              height: 1000px;
+              border: 1px solid black;
+            }
+
+            p {
+              max-width: 800px;
+            }
+        </style>
+
+        <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js"></script>
+        <script type="text/javascript" src="https://visjs.github.io/vis-network/standalone/umd/vis-network.min.js"></script>
+    </head>
+
+    <body>
+        <p>Demo</p>
+        <label>
+            Filter:
+            <select id="nodeFilterSelect">
+                <option value>All</option>
+                <option value="math">Math</option>
+                <option value="cs">CS</option>
+                <option value="core">Core</option>
+                <option value="ai">Artificial Intelligence</option>
+            </select>
+        </label>
+
+        <div>
+            <div id="mynetwork" style="float: left;"></div>
+
+            <div style="display: inline-block; margin-left: 25px;">
+                <h2 id="eventSpanHeading"></h2>
+                <pre id="eventSpanContent"></pre>
+            </div>
+        </div>
+
+        <script type="text/javascript">
+            var nodes = new vis.DataSet([
+              { id: 1, cat: "math", label: "Calculus 1", shape: "circle", color: "#FFFF00", widthConstraint: 90, 
+              title: "", 
+              text: "\\text{Eigenvalues are your freinds.}" },
+              
+              { id: 2, cat: "math", label: "Linear Algebra", shape: "circle", color: "#FFFF00", widthConstraint: 90, 
+              title: "", 
+              text: "\\text{sdfsdf.}" },
+              
+              { id: 3, cat: "math", label: "Probability 1", shape: "circle", color: "#FFFF00", widthConstraint: 120, 
+              title: "", 
+              text: "\\text{Combinatorics. \n Combinatorics. Combinatorics. \n }" },
+              
+              { id: 4, cat: "math", label: "Calculus 2", shape: "circle", color: "#FFFF00", widthConstraint: 90, 
+              title: "", 
+              text: "\\text{Eigenvalues are your freinds.}" },
+              
+              { id: 5, cat: "core", label: "Intro 2 Data Science", shape: "circle", color: "#FFFF00", widthConstraint: 90, 
+              title: "", 
+              text: "\\text{Eigenvalues are your freinds.}" },
+              
+              { id: 6, cat: "cs", label: "Foundations of CS", shape: "circle", color: "#FFFF00", widthConstraint: 90, 
+              title: "", 
+              text: "\\text{Eigenvalues are your freinds.}" },
+              
+              { id: 7, cat: "core", label: "Regression Analysis", shape: "circle", color: "#FFFF00", widthConstraint: 90, 
+              title: "", 
+              text: "\\text{Eigenvalues are your freinds.}" },
+              
+              { id: 8, cat: "core", label: "Statistical Computing", shape: "circle", color: "#FFFF00", widthConstraint: 90, 
+              title: "", 
+              text: "\\text{Eigenvalues are your freinds.}" },
+              
+              { id: 9, cat: "cs", label: "Algorithms and Data Structures", shape: "circle", color: "#FFFF00", widthConstraint: 90, 
+              title: "", 
+              text: "\\text{Eigenvalues are your freinds.}" },
+              
+              { id: 10, cat: "core", label: "Inference, Causality, and DOE", shape: "circle", color: "#FFFF00", widthConstraint: 90, 
+              title: "", 
+              text: "\\text{Eigenvalues are your freinds.}" },
+              
+              { id: 11, cat: "math", label: "Probability B", shape: "circle", color: "#FFFF00", widthConstraint: 90, 
+              title: "", 
+              text: "\\text{Eigenvalues are your freinds.}" },
+              
+              { id: 12, cat: "core", label: "Statistical Modeling and Stochastic Processes", shape: "circle", color: "#FFFF00", widthConstraint: 90, 
+              title: "", 
+              text: "\\text{Eigenvalues are your freinds.}" },
+              
+              { id: 13, cat: "core", label: "Introduction 2 Phil of Science", shape: "circle", color: "#FFFF00", widthConstraint: 90, 
+              title: "", 
+              text: "\\text{Eigenvalues are your freinds.}" },
+              
+              { id: 14, cat: "core", label: "Introduction 2 Machine Learning", shape: "circle", color: "#FFFF00", widthConstraint: 90, 
+              title: "", 
+              text: "\\text{Eigenvalues are your freinds.}" },
+              ]);
+              
+              
+
+            var edges = new vis.DataSet([
+              { from: 1, to: 4, color: { color: "red" }, arrows: {to: {enabled: true, type: "arrow"}}},
+              { from: 1, to: 7, color: { color: "red" }, arrows: {to: {enabled: true, type: "arrow"}}},
+              { from: 1, to: 5, color: { color: "red" }, arrows: {to: {enabled: true, type: "arrow"}}},
+              { from: 2, to: 5, color: { color: "red" }, arrows: {to: {enabled: true, type: "arrow"}}},
+              { from: 2, to: 7, color: { color: "red" }, arrows: {to: {enabled: true, type: "arrow"}}},
+              { from: 3, to: 5, color: { color: "red" }, arrows: {to: {enabled: true, type: "arrow"}}},
+              { from: 3, to: 11, color: { color: "red" }, arrows: {to: {enabled: true, type: "arrow"}}},
+              { from: 3, to: 9, color: { color: "red" }, arrows: {to: {enabled: true, type: "arrow"}}},
+              { from: 4, to: 8, color: { color: "red" }, arrows: {to: {enabled: true, type: "arrow"}}},
+              { from: 5, to: 7, color: { color: "red" }, arrows: {to: {enabled: true, type: "arrow"}}},
+              { from: 5, to: 10, color: { color: "red" }, arrows: {to: {enabled: true, type: "arrow"}}},
+              { from: 5, to: 8, color: { color: "red" }, arrows: {to: {enabled: true, type: "arrow"}}},
+              { from: 6, to: 8, color: { color: "red" }, arrows: {to: {enabled: true, type: "arrow"}}},
+              { from: 6, to: 9, color: { color: "red" }, arrows: {to: {enabled: true, type: "arrow"}}},
+              { from: 7, to: 10, color: { color: "red" }, arrows: {to: {enabled: true, type: "arrow"}}},
+              { from: 7, to: 12, color: { color: "red" }, arrows: {to: {enabled: true, type: "arrow"}}},
+              { from: 7, to: 14, color: { color: "red" }, arrows: {to: {enabled: true, type: "arrow"}}},
+              { from: 8, to: 14, color: { color: "red" }, arrows: {to: {enabled: true, type: "arrow"}}},
+              { from: 11, to: 12, color: { color: "red" }, arrows: {to: {enabled: true, type: "arrow"}}},
+           ]);
+
+            const nodeFilterSelector = document.getElementById("nodeFilterSelect");
+            let nodeFilterValue = "";
+
+            const nodesFilter = (node) => {
+                if (nodeFilterValue === "") {
+                   return true;
+                }
+                return node.cat === nodeFilterValue;
+            };
+            
+            const nodesView = new vis.DataView(nodes, { filter: nodesFilter });
+            nodeFilterSelector.addEventListener("change", (e) => {
+                nodeFilterValue = e.target.value;
+                nodesView.refresh();
+            });
+
+
+            var container = document.getElementById("mynetwork");
+            var data = {
+              nodes: nodesView,
+              edges: edges,
+            };
+            var options = {
+                interaction: { hover: true },
+                layout: {
+                    hierarchical: {
+                        direction: "UD",
+                        sortMethod: "directed",
+                    },
+                },
+                nodes: {
+                    shape: "circle",
+                },
+                physics: {
+                    hierarchicalRepulsion: {
+                        avoidOverlap: +1,
+                    },
+//                    enabled: false,
+                },
+            };
+            var network = new vis.Network(container, data, options);
+
+            network.on("click", function (params) {
+                if (params.nodes.length > 0) {
+                    var node = network.body.nodes[params.nodes[0]];
+                    if (node.options.text !== undefined) {
+                        document.getElementById("eventSpanHeading").innerText = "Syllabus for "+node.options.label+":";
+                        document.getElementById("eventSpanContent").innerHTML = '';
+                        document.getElementById("eventSpanContent").appendChild(MathJax.tex2svg(node.options.text))
+                    } else {
+                        document.getElementById("eventSpanHeading").innerText = "";
+                        document.getElementById("eventSpanContent").innerHTML = '';
+                    }
+                }
+            });
+        </script>
+
+    </body>
+</html>
+
+
+
+
+
+
