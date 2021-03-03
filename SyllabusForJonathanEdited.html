@@ -6,13 +6,13 @@
 
         <style type="text/css">
             #mynetwork {
-              width: 1200px;
-              height: 1000px;
-              border: 1px solid black;
+              width: 600px;
+              height: 600px;
+              border: 3px solid black;
             }
 
             p {
-              max-width: 800px;
+              max-width: 1600px;
             }
         </style>
 
@@ -21,7 +21,7 @@
     </head>
 
     <body>
-        <p>Demo</p>
+        <p>Statistics Program</p>
         <label>
             Filter:
             <select id="nodeFilterSelect">
@@ -44,60 +44,102 @@
 
         <script type="text/javascript">
             var nodes = new vis.DataSet([
-              { id: 1, cat: "math", label: "Calculus 1", shape: "circle", color: "#FFFF00", widthConstraint: 90, 
-              title: "", 
-              text: "\\text{Eigenvalues are your freinds.}" },
+              { id: 1, cat: "math", label: "Calculus 1", 
+              shape: "circle", 
+              color: "lightblue", 
+              widthConstraint: 20*5, 
+              title: "Semester:1 \n Lecture:4 \n TA:2 \n Nakaz:5 ", 
+              text: "\\text{Semester: \n Lecture: \n TA: \n Nakaz: \n }" },
               
-              { id: 2, cat: "math", label: "Linear Algebra", shape: "circle", color: "#FFFF00", widthConstraint: 90, 
-              title: "", 
-              text: "\\text{sdfsdf.}" },
+              { id: 2, cat: "math", label: "Linear Algebra", 
+              shape: "circle", 
+              color: "lightblue", 
+              widthConstraint: 20*4.5, 
+              title: "Semester:1 \n Lecture:4 \n TA:1 \n Nakaz:4.5 ", 
+              text: "\\text{}" },
               
-              { id: 3, cat: "math", label: "Probability 1", shape: "circle", color: "#FFFF00", widthConstraint: 120, 
-              title: "", 
+              { id: 3, cat: "math", label: "Probability 1", 
+              shape: "circle", 
+              color: "lightblue", 
+              widthConstraint: 20*4, 
+              title: "Semester:1 \n Lecture:3 \n TA:2 \n Nakaz:4 ", 
               text: "\\text{Combinatorics. \n Combinatorics. Combinatorics. \n }" },
               
-              { id: 4, cat: "math", label: "Calculus 2", shape: "circle", color: "#FFFF00", widthConstraint: 90, 
-              title: "", 
+              { id: 4, cat: "math", label: "Calculus 2", 
+              shape: "circle", 
+              color: "lightblue", 
+              widthConstraint: 20*5, 
+              title: "Semester:2 \n Lecture:4 \n TA:2 \n Nakaz:5 ", 
               text: "\\text{Eigenvalues are your freinds.}" },
               
-              { id: 5, cat: "core", label: "Intro 2 Data Science", shape: "circle", color: "#FFFF00", widthConstraint: 90, 
-              title: "", 
+              { id: 5, cat: "core", label: "Intro 2 Data Science", 
+              shape: "circle", 
+              color: "yellow", 
+              widthConstraint: 20*4, 
+              title: "Semester:2 \n Lecture:3 \n TA:2 \n Nakaz:4 ", 
               text: "\\text{Eigenvalues are your freinds.}" },
               
-              { id: 6, cat: "cs", label: "Foundations of CS", shape: "circle", color: "#FFFF00", widthConstraint: 90, 
-              title: "", 
+              { id: 6, cat: "cs", label: "Foundations of CS", 
+              shape: "circle", 
+              color: "pink", 
+              widthConstraint: 20*4, 
+              title: "Semester:2 \n Lecture:3 \n TA:2 \n Nakaz:4 ", 
               text: "\\text{Eigenvalues are your freinds.}" },
               
-              { id: 7, cat: "core", label: "Regression Analysis", shape: "circle", color: "#FFFF00", widthConstraint: 90, 
-              title: "", 
+              { id: 7, cat: "core", label: "Regression Analysis", 
+              shape: "circle", 
+              color: "yellow", 
+              widthConstraint: 20*3.5, 
+              title: "Semester:3 \n Lecture:3 \n TA:1 \n Nakaz:3.5 ", 
               text: "\\text{Eigenvalues are your freinds.}" },
               
-              { id: 8, cat: "core", label: "Statistical Computing", shape: "circle", color: "#FFFF00", widthConstraint: 90, 
-              title: "", 
+              { id: 8, cat: "core", label: "Statistical Computing", 
+              shape: "circle", 
+              color: "yellow", 
+              widthConstraint: 20*3.5, 
+              title: "Semester:3 \n Lecture:3 \n TA:1 \n Nakaz:3.5 ", 
               text: "\\text{Eigenvalues are your freinds.}" },
               
-              { id: 9, cat: "cs", label: "Algorithms and Data Structures", shape: "circle", color: "#FFFF00", widthConstraint: 90, 
-              title: "", 
+              { id: 9, cat: "cs", label: "Algorithms and Data Structures", 
+              shape: "circle", 
+              color: "pink", 
+              widthConstraint: 20*3.5, 
+              title: "Semester:3 \n Lecture:3 \n TA:1 \n Nakaz:3.5 ", 
               text: "\\text{Eigenvalues are your freinds.}" },
               
-              { id: 10, cat: "core", label: "Inference, Causality, and DOE", shape: "circle", color: "#FFFF00", widthConstraint: 90, 
-              title: "", 
+              { id: 10, cat: "core", label: "Inference, Causality, and DOE", 
+              shape: "circle", 
+              color: "yellow", 
+              widthConstraint: 20*3, 
+              title: "Semester:3 \n Lecture:3 \n TA:0 \n Nakaz:3 ", 
               text: "\\text{Eigenvalues are your freinds.}" },
               
-              { id: 11, cat: "math", label: "Probability B", shape: "circle", color: "#FFFF00", widthConstraint: 90, 
-              title: "", 
+              { id: 11, cat: "math", label: "Probability B", 
+              shape: "circle", 
+              color: "lightblue", 
+              widthConstraint: 20*4, 
+              title: "Semester:4 \n Lecture:3 \n TA:2 \n Nakaz:4 ", 
               text: "\\text{Eigenvalues are your freinds.}" },
               
-              { id: 12, cat: "core", label: "Statistical Modeling and Stochastic Processes", shape: "circle", color: "#FFFF00", widthConstraint: 90, 
-              title: "", 
+              { id: 12, cat: "core", label: "Statistical Modeling and Stochastic Processes", 
+              shape: "circle", 
+              color: "yellow", 
+              widthConstraint: 20*3.5, 
+              title: "Semester:4 \n Lecture:3 \n TA:1 \n Nakaz:3.5", 
               text: "\\text{Eigenvalues are your freinds.}" },
               
-              { id: 13, cat: "core", label: "Introduction 2 Phil of Science", shape: "circle", color: "#FFFF00", widthConstraint: 90, 
-              title: "", 
+              { id: 13, cat: "core", label: "Intro 2 Phil", 
+              shape: "circle", 
+              color: "yellow", 
+              widthConstraint: 20*2, 
+              title: "Semester:5 \n Lecture:2 \n TA:0 \n Nakaz:2 ", 
               text: "\\text{Eigenvalues are your freinds.}" },
               
-              { id: 14, cat: "core", label: "Introduction 2 Machine Learning", shape: "circle", color: "#FFFF00", widthConstraint: 90, 
-              title: "", 
+              { id: 14, cat: "core", label: "Intro 2 Machine Learning", 
+              shape: "circle", 
+              color: "#FFFF00", 
+              widthConstraint: 20*4, 
+              title: "Semester:5 \n Lecture:3 \n TA:2 \n Nakaz:4 ", 
               text: "\\text{Eigenvalues are your freinds.}" },
               ]);
               
@@ -160,7 +202,7 @@
                 },
                 physics: {
                     hierarchicalRepulsion: {
-                        avoidOverlap: +1,
+                        avoidOverlap: +0.3,
                     },
 //                    enabled: false,
                 },
