@@ -13,6 +13,15 @@ Mail: johnros \<spammer decoy\> bgu ac il
 
 ## Research Interests
 
+- __Statistical Arguments and the Philosophy of Science:__
+How to argument with data?
+When is the frequentist argument more appropriate then the Bayesian? 
+When is the [Fiducial](https://en.wikipedia.org/wiki/Fiducial_inference)? 
+Are we debating about the governing laws of nature, or only on social beliefs? 
+My research tries to reconcile between the various modes of inference, from the social view of the scientific endeavor. 
+
+
+
 - __Distributed Machine Learning:__
 Today's BIG computing problems are solved, not with super-computers, but rather with thousands of smaller computers working together. 
 This requires redesigning classical algorithms, originally designed for the serial computing age, and applying them to distributed computing environments. 
@@ -25,14 +34,11 @@ How to generalize findings from a group study to a "typical brain"?
 How to analyze imaging genetic studies where the number of relations to study is in the Billions $$(10^9)$$? 
 How to account for the bias introduced by search-and-select methods such as region selection in social neuroscience ("Voodoo correlations"), and searchlight analysis in multivoxel pattern recognition?
 
+
 - __High Dimensional Statistical Process Control:__
 Modern day quality control does no longer consist of the variation of a single attribute over time. Production lines today have hundreds and thousands of sensors monitoring performance. 
 It so happens, that the problem of quality control has applications in any monitoring problem. 
 This include _cyber security_ alerting systems, _patient monitoring_, internet of things (_IOT_), etc.
-
-- __Statistical arguments and the philosophy of science:__
-What makes a statistical finding "convincing"? Are all arguments (Bayesian, Frequentist, Fiducial,...) adequate for all problems? 
-
 
 
 __I am actively recruiting PhD students and Post-docs with strong mathematical background to work on projects related to machine learning.__
