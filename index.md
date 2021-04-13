@@ -9,7 +9,9 @@ P.O. 653, Beer Sheva, 84105 \\
 Tel: +972-(0)8-647-2213\\
 Mail: johnros \<spammer decoy\> bgu ac il
 
-
+NEW! 
+I am happy to announce our new Statistics and Data Analysis undergraduate program at Ben-Gurion University. 
+For more details, see our [web-site](https://in.bgu.ac.il/sdata/pages/program.aspx).
 
 ## Research Interests
 
@@ -122,4 +124,4 @@ Some places you may reach out to our graduates, and other data scientists:
 My mail is at the head of this page. Alternatively, just follow the links at the bottom of the page.
 
 I also moderate BGU's computing-for-research listsrv.
-[Join here](http://lists.bgu.ac.il/mailman/listinfo/research.computing) (only accesible from within the BGU's VPN).
+[Join here](http://lists.bgu.ac.il/mailman/listinfo/research.computing) (only accessible from within the BGU's VPN).
