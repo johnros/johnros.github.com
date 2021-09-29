@@ -92,6 +92,7 @@ Superb, superb, superb.
 28. Peter J. Schreier and Louis L. Scharf. __Statistical Signal Processing of Complex-Valued Data: The Theory of Improper and Noncircular Signals__ .
 In the case you are wondering, like myself, "why are so many scientists obsessed with complex numbers?".
 
+29. Jake VanderPlas. __Python Data Science Handbook__. Best reference for learning data-oriented Python. 
 
 Feel free to use this list, and recommend more entries.
 
