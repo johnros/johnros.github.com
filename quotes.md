@@ -25,6 +25,8 @@ categories: [static_page]
 
 - Man is the most insane species. He worships an invisible God and destroys a visible Nature. Unaware that this Nature he’s destroying is this God he’s worshiping -- Hubert Reeves
 
+- ... the best reason to learn history: not in order to predict the future, but to free yourself of the past and imagine alternative destinies-- Yuval Noah-Harari
+
 
 ## Work
 
