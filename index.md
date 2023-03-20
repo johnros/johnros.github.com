@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Senior Data Scientist at [Pagaya](https://pagaya.com/).  
+Senior Data Scientist at [Fairmatic](https://www.fairmatic.com/).  
 Previously, Assistant-Professor of Statistics at Ben-Gurion University.
 
 __NEW__: 
@@ -15,7 +15,7 @@ See my [Google Scholar profile](https://scholar.google.co.il/citations?user=0Tl5
 
 ## Teaching
 
-I like to publish my class notes. Here are the notes of some courses I give. 
+I like to publish my class notes. Here are the notes of some courses I gave. 
 They are not error free, so use at your own discretion and feel free to contact me for clarifications and errata. 
 
 - [Quality Engineering](https://github.com/johnros/qualityEngineering/blob/master/Class_notes/notes.pdf), a.k.a. Industrial Statistics.
@@ -28,7 +28,7 @@ They are not error free, so use at your own discretion and feel free to contact 
 
 - Father (x3), beach-volleyball player, and data-hacker(*).  
 
-- Presently, a senior data scientist at Pagaya. 
+- Presently, a senior data scientist at Fairmatic. 
 - Previously, faculty member at the [Dept. of Industrial Engineering and Management](http://in.bgu.ac.il/engn/iem/Pages/default.aspx) at the Ben Gurion University of the Negev, and also:
 - Postdoc at the [Faculty of Math and CS](http://wws.weizmann.ac.il/math/) at the [Weizmann Institute of Science](http://www.weizmann.ac.il/). 
 Working with [Boaz Nadler](http://www.wisdom.weizmann.ac.il/~nadler/) on distributed algorithms for machine learning. 
